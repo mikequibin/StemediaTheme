@@ -5258,12 +5258,15 @@ iframe {
 }
 
 .cover-subject{
-    color: #959289;
+    color: #6b6666!important;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     font-weight: 500;
     margin-top: -15px;
 }
 
 .blog-par{
-    color: #333333!important;
+    color: #6b6666!important;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
 }
