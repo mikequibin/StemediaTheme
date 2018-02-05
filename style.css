@@ -5250,3 +5250,20 @@ iframe {
 .lrshadows{
     box-shadow: 0 0 2.5em 0.5em rgba(0,0,0,0.4);
 }
+
+/*Arcticle Page*/
+
+.blog-img1{
+    margin-left: -40px;
+}
+
+.cover-subject{
+    color: #959289;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.blog-par{
+    color: #333333!important;
+}
