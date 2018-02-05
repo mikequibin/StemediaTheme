@@ -5235,3 +5235,12 @@ iframe {
     width: 100%;
     height: 100%;
 }
+
+/** Mike Edits **/
+
+.lrpane{
+    max-width: 1140px;
+    min-width: 801px;
+    width: auto;
+    margin: 0 auto;
+}
