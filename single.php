@@ -9,7 +9,7 @@
 
 get_header(); ?>
 <?php $layout_class = shapely_get_layout_class(); ?>
-	<div class="row lrpane">
+	<div class="row lrpane lrshadows">
 		<?php
 		if ( $layout_class == 'sidebar-left' ):
 			get_sidebar();
