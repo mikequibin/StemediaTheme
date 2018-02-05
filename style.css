@@ -5266,3 +5266,23 @@ iframe {
     text-transform: uppercase;
     color: #e4a152;
 }
+
+/*Arcticle Page*/
+
+.blog-img1{
+    margin-left: -40px;
+}
+
+.cover-subject{
+    color: #6b6666!important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.blog-par{
+    color: #6b6666!important;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
