@@ -5270,3 +5270,7 @@ iframe {
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 }
+
+.text-italic{
+    font-style: italic;
+}
