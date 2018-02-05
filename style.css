@@ -5236,4 +5236,15 @@ iframe {
     height: 100%;
 }
 
+<<<<<<< HEAD
 /*Article Page*/
+=======
+/** Mike Edits **/
+
+.lrpane{
+    max-width: 1140px;
+    min-width: 801px;
+    width: auto;
+    margin: 0 auto;
+}
+>>>>>>> 1f8a4dfcf6579fea3476d33908324cbb679f5782
