@@ -5251,6 +5251,22 @@ iframe {
     box-shadow: 0 0 2.5em 0.5em rgba(0,0,0,0.4);
 }
 
+.widget_search{
+    margin-bottom: 30px!important;
+    margin-top: 18px;
+}
+
+.widget_recent_entries{
+    background-color: #f2f0ed;
+}
+
+.widget .widget-title{
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #e4a152;
+}
+
 /*Arcticle Page*/
 
 .blog-img1{
