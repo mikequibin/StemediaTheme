@@ -5290,3 +5290,24 @@ iframe {
 .text-italic{
     font-style: italic;
 }
+
+.border-top{
+    border-top: 1px solid;
+    padding-top: 15px;
+    margin-top: 25px;
+    color: #6b6666;
+}
+
+.blog-box{
+    background-color: #ebebeb;
+    padding: 25px;
+}
+
+.text-black{
+    color: #000!important;
+    margin-top: -30px;
+}
+
+.font-500{
+    font-weight: 500;
+}
