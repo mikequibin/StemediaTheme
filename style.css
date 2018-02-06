@@ -5290,8 +5290,9 @@ iframe {
 
 /*Article Page*/
 
-.blog-img1{
+.image-banner{
     margin-left: -40px;
+    max-width: 106%;
 }
 
 .cover-subject{
@@ -5306,6 +5307,7 @@ iframe {
     color: #6b6666!important;
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
+    margin-right: 35px;
 }
 
 .text-italic{
@@ -5331,4 +5333,8 @@ iframe {
 
 .font-500{
     font-weight: 500;
+}
+
+.margin-0{
+    margin: 0;
 }
