@@ -68,7 +68,7 @@
     </div>
 
     <div>
-        <img class="footer-barline" src="assets/images/footer-barline.png" alt=""/>
+        <img class="footer-barline" src="../assets/images/footer-barline.png" alt=""/>
     </div>
 
     <div class="footer footer__top top-20">
@@ -78,10 +78,10 @@
 
         <div class="row row__50 floatright">
             <div class="footer-icons">
-                <a href="https://www.instagram.com/_stemedia/" target="_blank"><img src="assets/images/ig-footer.png" alt=""/></a>
-                <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="assets/images/fb-footer.png" alt=""/></a>
-                <a href="https://twitter.com/_STEMedia" target="_blank"><img src="assets/images/twitter-footer.png" alt=""/></a>
-                <a href="https://www.youtube.com/stemediaorg" target="_blank"><img src="assets/images/youtube-footer.png" alt=""/></a>
+                <a href="https://www.instagram.com/_stemedia/" target="_blank"><img src="../assets/images/ig-footer.png" alt=""/></a>
+                <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="../assets/images/fb-footer.png" alt=""/></a>
+                <a href="https://twitter.com/_STEMedia" target="_blank"><img src="../assets/images/twitter-footer.png" alt=""/></a>
+                <a href="https://www.youtube.com/stemediaorg" target="_blank"><img src="../assets/images/youtube-footer.png" alt=""/></a>
             </div>
         </div>
     </div>
