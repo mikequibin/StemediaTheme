@@ -47,12 +47,12 @@ get_header(); ?>
 
     <div class="flex-container">
         <video autoplay muted loop id="myVideo" class="videoset">
-            <source src="assets/videos/bg3-compressed.mp4" type="video/mp4">
-            <source src="assets/videos/bg3-compressed.webm" type="video/webm">
-            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">
-            Your browser does not support HTML5 video.
+<!--            <source src="assets/videos/bg3-compressed.mp4" type="video/mp4">-->
+<!--            <source src="assets/videos/bg3-compressed.webm" type="video/webm">-->
+<!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
         </video>
         <!--<div class="overlay"></div>-->
+        <div>Mike</div>
     </div>
 
     <div class="text-center">
@@ -73,7 +73,9 @@ get_header(); ?>
         <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>
     </div>
 
-    <div class="white-box top-20">
+
+
+    <div class="white-box top-100">
         <div class="flex-container flex-margin0">
             <div id="two"></div>
             <div class="row row__50 orange-bg">
@@ -123,7 +125,7 @@ get_header(); ?>
                 <div class="flex-container-comm mtop-35">
                     <div class="row row__50 mobile-full">
                         <div class="project project__1st">
-                            <p class="project__title1 no-bottom add-16"><a class="project__title1 no-bottom add-16 decoration-none" href="http://v2.stemedia.org/2018/01/08/the-truth-behind-your-favorite-makeup-brands/">The Truth Behind Your Favorite Makeup Brands</a></p>
+                            <p class="project__title1 no-bottom add-16"><a class="project__title1 no-bottom add-16 decoration-none" href="http://v2.stemedia.org/the-truth-behind-your-favorite-makeup-brands/">The Truth Behind Your Favorite Makeup Brands</a></p>
                             <p class="project__date1 no-bottom">Cynthia M. Sharpe - December (2017)</p>
                             <div class="project__comment">
                                 <img class="project__comment--ic" src="assets/images/p1-com.png" alt=""/>
@@ -135,7 +137,7 @@ get_header(); ?>
 
                     <div class="row row__50 mobile-full add-2">
                         <div class="project project__2nd">
-                            <p><a class="project__title no-bottom decoration-none" href="http://v2.stemedia.org/2018/01/08/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>
+                            <p><a class="project__title no-bottom decoration-none" href="http://v2.stemedia.org/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>
                             <p class="project__date bottom-7__mobile no-bottom">Khalid Birdsong - December (2017)</p>
                             <div class="project__comment">
                                 <img class="project__comment--ic" src="assets/images/p1-com.png" alt=""/>
@@ -146,7 +148,7 @@ get_header(); ?>
 
                         <div class="flex-container-comm mobile-50">
                             <div class="project project__3rd row row__50 mobile-full add-2">
-                                <p><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/2018/01/08/stem-in-the-kitchen-improve-your-cooking-with-science/">STEM in the Kitchen: Improve Your Cooking with Science!</a></p>
+                                <p><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/stem-in-the-kitchen-improve-your-cooking-with-science/">STEM in the Kitchen: Improve Your Cooking with Science!</a></p>
                                 <p class="project__date3 no-bottom">J.C - December (2017)</p>
                                 <img class="hr1" src="assets/images/hr-line.png" alt=""/>
                                 <p class="text-white mobile-font1 no-bottom "> </p>
@@ -157,7 +159,7 @@ get_header(); ?>
                                 </div>
                             </div>
                             <div class="row row__50 project project__4th mobile-full add-2">
-                                <p ><a class="project__title2 no-bottom top-7 top-7__mobile decoration-none" href="http://v2.stemedia.org/2018/01/08/critical-thinker-elements-of-an-elite-stem-professional-5/">"Critical Thinker" | Elements of an Elite STEM Professional (#5)</a></p>
+                                <p ><a class="project__title2 no-bottom top-7 top-7__mobile decoration-none" href="http://v2.stemedia.org/critical-thinker-elements-of-an-elite-stem-professional-5/">"Critical Thinker" | Elements of an Elite STEM Professional (#5)</a></p>
                                 <p class="project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
                                 <div class="project__comment top-4">
                                     <img class="project__comment--ic" src="assets/images/p1-com.png" alt=""/>
@@ -175,7 +177,7 @@ get_header(); ?>
 
             <div class="flex-container-comm">
                 <div class="row__25 project project__5th">
-                    <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/2018/01/08/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>
+                    <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>
                     <p class="project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
                     <div class="project__comment no-bottom">
                         <img class="project__comment--ic" src="assets/images/comment-ic.png" alt=""/>
@@ -184,7 +186,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="row row__50 project project__6th">
-                    <p ><a class="project__title6 top-7 no-bottom decoration-none" href="http://v2.stemedia.org/2018/01/08/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>
+                    <p ><a class="project__title6 top-7 no-bottom decoration-none" href="http://v2.stemedia.org/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>
                     <p class="project__date3 no-bottom">Caila Hollley - June 2016</p>
                     <div class="project__comment top-7__mobile">
                         <img class="project__comment--ic" src="assets/images/p1-com.png" alt=""/>
@@ -193,7 +195,7 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="row__25 project project__7th">
-                    <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/2018/01/08/reach-your-resolutions/">Reach Your Resolutions!</a></p>
+                    <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/reach-your-resolutions/">Reach Your Resolutions!</a></p>
                     <p class="project__date3 no-bottom">Cynthia Sharpe - December 2016</p>
                     <div class="project__comment no-bottom">
                         <img class="project__comment--ic" src="assets/images/comment-ic.png" alt=""/>
