@@ -25,7 +25,9 @@ a img {
     border: 0;
     position: relative;
     margin-right: 1%;
-    margin-bottom: -1%; }
+    margin-bottom: -1%;
+
+}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
     display: block; }
@@ -2762,6 +2764,7 @@ nav {
     color: #fff;
     padding-bottom: 0.31rem;
     border-bottom: 0.25rem solid #f29729;
+    cursor: pointer;
 }
 
 .menu li a:hover {
