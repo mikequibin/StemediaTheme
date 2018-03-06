@@ -43,38 +43,44 @@ get_header(); ?>
 //		?>
     <!--	</div>-->
 
-    <body>
+<body>
 
-    <div class="flex-container">
+<section>
+    <div class="text-container">
         <video autoplay muted loop id="myVideo" class="videoset">
-            <!--            <source src="assets/videos/bg3-compressed.mp4" type="video/mp4">-->
-            <!--            <source src="assets/videos/bg3-compressed.webm" type="video/webm">-->
-            <!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
+            <source src="assets/videos/bg-video4.mp4" type="video/mp4">
+            <source src="assets/videos/bg-video4.webm" type="video/webm">
+<!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
         </video>
-        <!--<div class="overlay"></div>-->
+<!--        <div class="overlay"></div>-->
     </div>
 
     <div class="text-center">
         <div class="banner">
             <div class="banner__heading">
-                <h1 class=" text-center decoration-dark">Technical Intelligence meets </br> Creative Genius</h1>
+                <h1 class=" text-center decoration-dark head-text">Technical Intelligence meets </br> Creative Genius</h1>
             </div>
-            <!--<div class="banner__down-arrow">-->
-            <!--<a class="jumper z-top" href="#two"><img class="top-30 bottom-10" src="assets/images/down-arrow.png" alt=""/></a>-->
-            <!--</div>-->
+
         </div>
     </div>
 
-    <div class="social-media">
-        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>
-        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>
-        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>
-        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>
-    </div>
+    <!--    <div class="social-media">-->
+    <!--        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>-->
+    <!--        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>-->
+    <!--        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>-->
+    <!--        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>-->
+    <!--    </div>-->
+
+</section>
+
+<div class="banner__down-arrow">
+    <a class="jumper z-top" href="#two"><img class="top-40" style="padding-bottom: -20px;" src="assets/images/down-arrow.png" alt=""/></a>
+</div>
+
+<section>
+    <div class="white-box">
 
 
-
-    <div class="white-box top-100">
         <div class="flex-container flex-margin0">
             <div id="two"></div>
             <div class="row row__50 orange-bg">
@@ -88,22 +94,21 @@ get_header(); ?>
                     <p class="font-500 letter-spacing bottom-10 top-15"> Creative x Inspirational content for the Science, Technology, Engineering, & Math (STEM) community!
                     </p>
 
-                    <div class="white-button left-90">
-                        <img class="white-button__img" src="assets/images/media-button.png" alt=""/>
+                    <div class="white-button left-90" id="popup__toggle">
+                        <img class="white-button__img" src="assets/images/media-button.png" alt="" />
                         <span class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</span>
                     </div>
                 </div>
             </div>
             <div class="row row__50">
-                <img class="video-mobile" src="assets/images/video-mobile.png" id="popup__toggle" alt="">
+                <img class="video-mobile" src="assets/images/video-mobile.png"  alt="">
             </div>
         </div>
-        <!--<div class="blue-border">-->
-        <!--<img src="assets/images/blue-border.png" alt=""/>-->
-        <!--</div>-->
-        <div class="banner__down-arrow">
-            <a class="jumper" href="#three"><img class="top-60 bottom-30 mobile-arrow" src="assets/images/blue-down-arrow.png" id="popup__toggle" alt=""/></a>
-        </div>
+
+<!--        <div class="banner__down-arrow">-->
+<!--            <a class="jumper" href="#three"><img class="top-60 bottom-30 mobile-arrows" src="assets/images/blue-down-arrow.png" id="popup__toggle" alt=""/></a>-->
+<!--        </div>-->
+
     </div>
     <div class="popup__overlay">
         <div class="popup" id="popupVid">
@@ -112,7 +117,10 @@ get_header(); ?>
         </div>
     </div>
 
-    <div class="community-banner">
+</section>
+
+<section class="top-60">
+    <div class="community-banner ">
         <div class="wrapperjoke">
             <div id="three"></div>
             <div class="community-header comm-header-mobile">
@@ -275,6 +283,20 @@ get_header(); ?>
             </div>
         </div>
     </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     <div class="service-banner">
         <div class="text-container">
