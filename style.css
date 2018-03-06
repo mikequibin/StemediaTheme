@@ -47,6 +47,10 @@ h1, h2, h3, h4, h5 {
     font-family: 'Maven Pro', sans-serif;
     font-weight: 500; }
 
+footer{
+    background-color: #fff;
+}
+
 .header {
     background-position: center;
     background-repeat: no-repeat;
@@ -723,7 +727,7 @@ p, li, a {
     margin-right: 3%;
     z-index: 2;
     position: relative;
-     }
+}
 
 .social-media__icons {
     width: 85%;
@@ -935,6 +939,33 @@ p, li, a {
 
 /**Hidden Contents**/
 .shapely-related-posts{
+    display: none;
+}
+
+.post-content .entry-header .wp-post-image{
+    display: none;
+}
+
+.entry-header.nolist{
+    display: none;
+}
+
+.vc_btn3-container.vc_btn3-left{
+    display: none;
+}
+
+/**Cuztomized WPBakery Contents**/
+
+.vc_gitem-zone{
+    height: 200px;
+}
+.vc_custom_heading.vc_gitem-post-data{ margin-bottom: 10px;}
+.vc_custom_heading.vc_gitem-post-data h4{ font-size: 1.25rem; line-height: 1.25;}
+.vc_custom_heading.vc_gitem-post-data p{ font-size: 0.9rem; }
+.vc_col-sm-12.vc_gitem-col.vc_gitem-col-align-{height: 200px; overflow: auto; text-overflow: ellipsis; }
+.vc_custom_heading btn-filled.btn{ margin-bottom: 0px;}
+
+.vc_col-sm-12.vc_gitem-col.vc_gitem-col-align-::-webkit-scrollbar {
     display: none;
 }
 
@@ -1219,6 +1250,10 @@ p, ul, h1 {
 @media (max-width: 1150px) {
     .comm-header-mobile {
         margin-top: -190px; } }
+
+.footer{
+    background-color: #fff;
+}
 
 .footer__top {
     padding-top: 0.25rem; }
@@ -4697,7 +4732,7 @@ blockquote:after {
     display: inline-block;
     width: 100%; }
 .widget.widget_recent_entries ul li a:focus, .widget.widget_recent_entries ul li a:hover {
-     }
+}
 .widget.widget_archive h2{
     margin-bottom: 0px!important;
 }

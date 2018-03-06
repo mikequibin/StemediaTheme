@@ -66,12 +66,12 @@ get_header(); ?>
         </div>
     </div>
 
-    <div class="social-media">
-        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>
-        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>
-        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>
-        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>
-    </div>
+<!--    <div class="social-media">-->
+<!--        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>-->
+<!--        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>-->
+<!--        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>-->
+<!--        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>-->
+<!--    </div>-->
 
 
 
