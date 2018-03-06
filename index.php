@@ -47,12 +47,11 @@ get_header(); ?>
 
     <div class="flex-container">
         <video autoplay muted loop id="myVideo" class="videoset">
-<!--            <source src="assets/videos/bg3-compressed.mp4" type="video/mp4">-->
-<!--            <source src="assets/videos/bg3-compressed.webm" type="video/webm">-->
-<!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
+            <!--            <source src="assets/videos/bg3-compressed.mp4" type="video/mp4">-->
+            <!--            <source src="assets/videos/bg3-compressed.webm" type="video/webm">-->
+            <!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
         </video>
         <!--<div class="overlay"></div>-->
-        <div>Mike</div>
     </div>
 
     <div class="text-center">
@@ -66,12 +65,12 @@ get_header(); ?>
         </div>
     </div>
 
-<!--    <div class="social-media">-->
-<!--        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>-->
-<!--        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>-->
-<!--        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>-->
-<!--        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>-->
-<!--    </div>-->
+    <div class="social-media">
+        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>
+        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>
+        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>
+        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>
+    </div>
 
 
 
