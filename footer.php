@@ -41,50 +41,91 @@
 
 <!--	<a class="btn btn-sm fade-half back-to-top inner-link" href="#top"><i class="fa fa-angle-up"></i></a>-->
 
+<!--<footer>-->
+<!--    <div class="footer">-->
+<!--        <div class="">-->
+<!--            <div class="floatleft">-->
+<!--                <a href=""><img class="stem-logo float" src="../assets/images/logo-footer.png" alt=""/></a>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="floatright">-->
+<!--                <div class="footer__navbar">-->
+<!--                    <ul class="checklist--footer top-45 top-45__footer-mobile">-->
+<!--                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2"  href="#two">About</a></li>-->
+<!--                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="#three">Blog</a></li>-->
+<!--                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="#four">Work</a></li>-->
+<!--                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="">Contact</a></li>-->
+<!--                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="https://www.ideationproducts.com/" target="_blank">Shop</a></li>-->
+<!--                    </ul>-->
+<!---->
+<!--                    <div class="footer__navbar--submit">-->
+<!--                        <a class="text-white decoration orange-ic" href="">Submit Content</a>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!---->
+<!--    <div>-->
+<!--        <img class="footer-barline" src="../assets/images/footer-barline.png" alt=""/>-->
+<!--    </div>-->
+<!---->
+<!--    <div class="footer footer__top top-20">-->
+<!--        <div class="row__50 left-23">-->
+<!--            <p class="font-700 text-gray copyright">Copyright © 2017 STEMedia ® </p>-->
+<!--        </div>-->
+<!---->
+<!--        <div class="row row__50 floatright">-->
+<!--            <div class="footer-icons">-->
+<!--                <a href="https://www.instagram.com/_stemedia/" target="_blank"><img src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/footer-ig.png" alt=""/></a>-->
+<!--                <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="../wp-content/themes/newstem/assets/images/footer-fb.PNG" alt=""/></a>-->
+<!--                <a href="https://twitter.com/_STEMedia" target="_blank"><img src="../assets/images/twitter-footer.png" alt=""/></a>-->
+<!--                <a href="https://www.youtube.com/stemediaorg" target="_blank"><img src="../assets/images/youtube-footer.png" alt=""/></a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</footer>-->
+
 <footer>
-    <div class="footer">
-        <div class="">
-            <div class="floatleft">
-                <a href=""><img class="stem-logo float" src="assets/images/logo-footer.png" alt=""/></a>
-            </div>
-
-            <div class="floatright">
-                <div class="footer__navbar">
-                    <ul class="checklist--footer top-45 top-45__footer-mobile">
-                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2"  href="#two">About</a></li>
-                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="#three">Blog</a></li>
-                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="#four">Work</a></li>
-                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="">Contact</a></li>
-                        <li class="checklist__item float left-23"><a class="font-700 decoration-none text-blue txt-2" href="https://www.ideationproducts.com/" target="_blank">Shop</a></li>
-                    </ul>
-
-                    <div class="footer__navbar--submit">
-                        <a class="text-white decoration orange-ic" href="">Submit Content</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div>
-        <img class="footer-barline" src="../assets/images/footer-barline.png" alt=""/>
-    </div>
-
-    <div class="footer footer__top top-20">
-        <div class="row__50 left-23">
-            <p class="font-700 text-gray copyright">Copyright © 2017 STEMedia ® </p>
+    <div class="flex-container">
+        <div class="row__68">
+            <ul class="top-30">
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">ABOUT</a>
+                </li>
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">BLOG</a>
+                </li>
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">WORK</a>
+                </li>
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">CONTACT</a>
+                </li>
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">SHOP</a>
+                </li>
+                <li class="checklist__item float">
+                    <a class="font-700 decoration-none text-blue txt-2" href="">SUBMIT CONTENT</a>
+                </li>
+            </ul>
         </div>
 
-        <div class="row row__50 floatright">
-            <div class="footer-icons">
-                <a href="https://www.instagram.com/_stemedia/" target="_blank"><img src="../assets/images/ig-footer.png" alt=""/></a>
-                <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="../assets/images/fb-footer.png" alt=""/></a>
-                <a href="https://twitter.com/_STEMedia" target="_blank"><img src="../assets/images/twitter-footer.png" alt=""/></a>
-                <a href="https://www.youtube.com/stemediaorg" target="_blank"><img src="../assets/images/youtube-footer.png" alt=""/></a>
+        <div class="row__32">
+            <div class="footer-icon">
+                <a class="left-10" href=""><img class="logo-stem float" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/new-footer-logo.png" alt=""/></a>
+                <a class="left-10" href="https://www.instagram.com/_stemedia/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/footer-ig.png" alt=""/></a>
+                <a class="left-10" href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/footer-fb.PNG" alt=""/></a>
+                <a class="left-10" href="https://twitter.com/_STEMedia" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-footer.png" alt=""/></a>
+                <a class="left-10" href="https://www.youtube.com/stemediaorg" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/youtube-footer.png" alt=""/></a>
             </div>
         </div>
     </div>
+    <div class="copyright">
+        <p class="font-700 text-gray copyright text-white">© 2017 STEMEDIA.ORG | ALL RIGHTS RESERVED </p>
+    </div>
+
 </footer>
 <!-- #colophon -->
 </div>
