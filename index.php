@@ -80,23 +80,23 @@ get_header(); ?>
 <section>
     <div class="white-box">
 
-
         <div class="flex-container flex-margin0">
             <div id="two"></div>
             <div class="row row__50 orange-bg">
-                <div class="top-20 margin-20 bottom-10 mobile-margin45">
+                <div class="top-50 marginl-20 bottom-10 mobile-margin45">
 
                     <h2 class="text-white font-700 decoration-stem">
-                        STEMedia™ | STEM•Media |<span class="font-40"></span>
+                        STEMedia™
+                        STEM•Media <span class="font-40"></span>
                     </h2>
-                    <div class="hr"></div>
+<!--                    <div class="hr"></div>-->
 
-                    <p class="font-500 letter-spacing bottom-10 top-15"> Creative x Inspirational content for the Science, Technology, Engineering, & Math (STEM) community!
+                    <p class="font-500 letter-spacing bottom-10 top-15"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!
                     </p>
 
-                    <div class="white-button left-90" id="popup__toggle">
+                    <div class="white-button" id="popup__toggle">
                         <img class="white-button__img" src="assets/images/media-button.png" alt="" />
-                        <span class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</span>
+                        <h5 class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</h5>
                     </div>
                 </div>
             </div>
@@ -212,8 +212,6 @@ get_header(); ?>
                 </div>
             </div>
 
-
-
             <div class="video-section">
                 <div class="color-overlay">
                     <div class="text-container2"></div>
@@ -255,7 +253,6 @@ get_header(); ?>
         </div>
     </div>
 
-
     <div class="wrapper">
         <div class="white-box wehelp-header">
             <div id="four"></div>
@@ -285,19 +282,7 @@ get_header(); ?>
     </div>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<section>
     <div class="service-banner">
         <div class="text-container">
             <div id="five"></div>
@@ -352,9 +337,10 @@ get_header(); ?>
             </div>
         </div>
     </div>
-    </body>
 
+</section>
 
+</body>
 
 
 <?php

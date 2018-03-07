@@ -233,8 +233,8 @@ p {
     .margin-center {
         margin: 0 auto; } }
 
-.margin-20 {
-    margin-left: 20%; }
+.marginl-20 {
+    margin-left: 10%; }
 
 .top-180 {
     margin-top: 180px; }
@@ -448,7 +448,7 @@ p {
     float: right; }
 
 .letter-spacing {
-    letter-spacing: 0.12rem; }
+    letter-spacing: 0.8px; }
 
 body {
     font-size: 0.875rem;
@@ -751,7 +751,9 @@ p, li, a {
 .orange-bg {
     background-color: #faa53f;
     margin-bottom: 100px;
-    margin-top: 130px; }
+    margin-top: 90px;
+    height: 450px;
+}
 
 @media (max-width: 1155px) {
     .orange-bg {
@@ -764,7 +766,7 @@ p, li, a {
 
 @media (max-width: 1155px) {
     .orange-bg {
-        margin-bottom: 1.25rem;
+        /*margin-bottom: 1.25rem;*/
         margin-top: 0px;
         width: 100%; } }
 
@@ -776,7 +778,7 @@ p, li, a {
 
 @media (max-width: 1155px) {
     .video-mobile {
-        display: block;
+        display: none;
         margin: 0 auto;
         padding-bottom: 30px;
         padding-top: 30px;
@@ -826,16 +828,19 @@ p, li, a {
 .white-button {
     background-color: #fff;
     width: 43%;
-    padding: 0.5rem;
-    border-radius: 1.25rem;
-    cursor: pointer; }
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+}
 
 .white-button__img {
     position: absolute;
     padding-left: 1.25rem; }
 
 .white-button__text {
-    margin-left: 3.12rem; }
+    margin-left: 3.12rem;
+    margin-bottom: 0px;
+}
 
 .blue-border {
     margin: 0 auto;
@@ -1305,9 +1310,24 @@ p, ul, h1 {
         margin: 0rem; } }
 
 @media (max-width: 1155px) {
+    .white-button {
+        margin: 0 auto;}
+    .white-button__img {
+        display: none;}
+    .marginl-20{
+        margin-left: 0;
+    }
+    .white-button__text{
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 1155px) {
     .mobile-margin45 {
         padding-bottom: 8rem;
-        padding-top: 4rem; } }
+        padding-top: 4rem;
+        text-align: center;
+    } }
 
 @media (max-width: 1150px) {
     .comm-header-mobile {
