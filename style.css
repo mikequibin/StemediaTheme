@@ -277,6 +277,16 @@ p {
 .top-30 {
     padding-top: 1.87rem; }
 
+@media (max-width: 1093px) {
+    .top-30__footer-mobile {
+        padding-top: 10px;
+        margin-left: 0!important;} }
+
+@media (max-width: 1093px) {
+    .top-30 {
+        padding-top: 10px;
+        margin-left: 0!important;} }
+
 .top-20 {
     padding-top: 1.25rem; }
 
@@ -470,15 +480,25 @@ p, li, a {
     cursor: pointer; }
 
 @media (max-width: 1150px) {
-    .flex-container {
-        display: block;
-        margin: 0 1.87rem; } }
+.flex-container {
+    display: block;
+    margin: 0 1.87rem; } }
 
 .flex-container--header {
     display: flex !important;
     margin: 0;
     margin-left: 1.25rem;
     margin-right: 1.25rem; }
+
+@media (max-width: 1150px) {
+    .flex-container__footer {
+        display: flex!important;
+        margin: 0 1.87rem; } }
+
+@media (max-width: 1093px) {
+    .flex-container__footer {
+        display: block!important;
+        margin: 0 1.87rem; } }
 
 .z-top {
     position: relative;
@@ -613,9 +633,26 @@ p, li, a {
 .row__68{
     width: 68%;}
 
+@media (max-width: 1150px) {
+    .row__68 {
+        width: 50%; } }
+
+@media (max-width: 1093px) {
+    .row__68 {
+        width: 100%; } }
+
 .row__32{
     width: 32%;
 }
+
+@media (max-width: 1150px) {
+    .row__32 {
+        width: 50%; } }
+
+@media (max-width: 1093px) {
+    .row__32 {
+        width: 100%;
+        text-align: center;  } }
 
 
 @media (max-width: 1150px) {
@@ -659,6 +696,15 @@ p, li, a {
 @media (max-width: 1150px) {
     .checklist__item {
         font-size: 10px; }}
+
+@media (max-width: 1093px) {
+    .checklist__item {
+        font-size: 15px;
+        float: none!important;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 10px!important;
+        padding-left: 0!important; }}
 
 
 
@@ -1323,10 +1369,18 @@ p, ul, h1 {
 .footer-icon{
     margin-top: 30px; }
 
+@media (max-width: 1093px) {
+    .footer-icon {
+        margin-bottom: 20px; } }
+
 .logo-stem {
     z-index: 2;
     margin-top: -12px;
     padding-right: 10px; }
+
+@media (max-width: 1093px) {
+    .logo-stem {
+        display: none } }
 
 .copyright{
     background-color: #56565a !important;
@@ -1334,6 +1388,10 @@ p, ul, h1 {
     margin-bottom: 0px!important;
     padding: 5px;
 }
+
+@media (max-width: 1093px) {
+    .copyright {
+        font-size: 15px; } }
 
 #myVideo {
     right: 0;
