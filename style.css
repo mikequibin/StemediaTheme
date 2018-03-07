@@ -770,6 +770,18 @@ p, li, a {
         margin-top: 0px;
         width: 100%; } }
 
+@media (max-width: 1155px) {
+    .orange-bg {
+        margin-bottom: 4.25rem; } }
+
+@media (max-width: 437px) {
+    .orange-bg {
+        margin-bottom: 8.25rem; } }
+
+@media (max-width: 293px) {
+    .orange-bg {
+        margin-bottom: 10.25rem; } }
+
 
 
 .video-mobile {
@@ -1461,6 +1473,10 @@ p, ul, h1 {
     }
 }
 
+
+@media (max-width: 767px){
+section {
+    padding: 0!important; }}
 
 
 .videoset {
