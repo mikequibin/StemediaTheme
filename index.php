@@ -45,20 +45,32 @@ get_header(); ?>
 
 <body>
 
+<header>
+    <video autoplay muted loop class="fullvideo-container">
+        <source src="assets/videos/bg-video4.mp4" type="video/mp4">
+        <source src="assets/videos/bg-video4.webm" type="video/webm">
+    </video>
+    <div class="border-line">
+        <a class="jumper" href="#four">
+        <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat2.png" alt=""/>
+        </a>
+    </div>
+</header>
+
+
+
 <section>
     <div class="text-container">
-        <video autoplay muted loop id="myVideo" class="videoset">
-            <source src="assets/videos/bg-video4.mp4" type="video/mp4">
-            <source src="assets/videos/bg-video4.webm" type="video/webm">
-<!--            <source src="assets/videos/bg3-compressed.ogv" type="video/ogg">-->
-        </video>
-<!--        <div class="overlay"></div>-->
+<!--        <video autoplay muted loop id="myVideo" class="videoset">-->
+<!--            <source src="assets/videos/bg-video4.mp4" type="video/mp4">-->
+<!--            <source src="assets/videos/bg-video4.webm" type="video/webm">-->
+<!--        </video>-->
     </div>
 
     <div class="text-center">
         <div class="banner">
             <div class="banner__heading">
-                <h1 class=" text-center decoration-dark head-text">Technical Intelligence meets </br> Creative Genius</h1>
+                <h1 class="head-post text-center decoration-dark head-text">Technical Intelligence meets </br> Creative Genius</h1>
             </div>
 
         </div>

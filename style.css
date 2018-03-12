@@ -709,10 +709,17 @@ p, li, a {
 
 
 .banner__heading {
+    background: url("../images/header-flatlays.jpg") no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    background-repeat: no-repeat;
     color: #fff;
-    margin: 10rem .62rem 13rem .62rem;
     position: relative;
     z-index: 2; }
+
+.banner__heading  .head-post{
+    padding: 15rem;
+}
 
 @media (max-width: 1150px) {
     .banner__heading {
@@ -785,12 +792,14 @@ p, li, a {
     } }
 
 .social-media {
-    /*float: right;*/
-    /*margin-top: -22%;*/
-    padding-left: 20px;
-    margin-right: 3%;
-    z-index: 2;
-    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.social-media .ilist{
+    float: left;
+    list-style: none;
+    margin: 5px;
 }
 
 .social-media__icons {
@@ -1918,8 +1927,11 @@ textarea {
 # Navigation
 --------------------------------------------------------------*/
 
+.navbar-fixed-top {
+    background-color: #23282d;
+}
 .navbar-fixed-top.scrolled {
-    background-color: #23282d !important;
+    background-color: #23282d;
     transition: background-color 200ms linear;
 }
 
@@ -2840,7 +2852,6 @@ input[type="submit"]:hover {
 .nav-container {
     -webkit-backface-visibility: hidden;
     max-width: 100%;
-    background-color: #24282e;
 }
 
 nav {
@@ -2875,9 +2886,9 @@ nav .btn, .nav-bar .btn {
 }
 
 .nav-bar {
-    height: 55px;
-    max-height: 55px;
-    line-height: 55px;
+    height: 40px;
+    max-height: 40px;
+    line-height: 40px;
     max-width: 1390px;
     margin: 0 auto;
 }
@@ -3034,7 +3045,7 @@ nav {
 }
 
 .nav-container {
-    min-height: 56px;
+    min-height: 50px;
 }
 
 nav.outOfSight {
@@ -3439,6 +3450,28 @@ nav.fixed.scrolled {
     .featured-logo {
         display: none;
     }
+}
+
+
+.fullvideo-container{
+    min-width:100%;
+    max-width:40%;
+    margin-top: -13%;
+}
+
+.border-line{
+    height: 80px;
+    background-color: #f3f3f3;
+    margin-top: -10px;
+    line-height: 0;
+    text-align: center;
+
+}
+
+.logo-feat{
+    height: 55px;
+    margin: 12px;
+    opacity:0.4;
 }
 
 /*!---------- 8. FORMS ----------*/
