@@ -706,10 +706,13 @@ p, li, a {
         margin-bottom: 10px!important;
         padding-left: 0!important; }}
 
-
+.banner{
+    background: #c6c6c6;
+}
 
 .banner__heading {
-    background: url("../images/header-flatlays.jpg") no-repeat;
+    background: url("../images/creative-genius.png") no-repeat center;
+    background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
     background-repeat: no-repeat;
@@ -718,14 +721,12 @@ p, li, a {
     z-index: 2; }
 
 .banner__heading  .head-post{
-    padding: 15rem;
+    padding: 20rem;
 }
 
 @media (max-width: 1150px) {
     .banner__heading {
         /*margin: 7rem 0.62rem 30rem 0.62rem; */
-
-
     }
 }
 
@@ -1453,7 +1454,7 @@ p, ul, h1 {
     }
 
     .banner__heading{
-        margin: 8rem .62rem 0rem 0.62rem;
+
     }
 
 }
