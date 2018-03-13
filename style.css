@@ -721,8 +721,37 @@ p, li, a {
     z-index: 2; }
 
 .banner__heading  .head-post{
-    padding: 20rem;
+    padding: 23rem;
 }
+
+@media (max-width: 1000px){
+    .banner__heading  .head-post{
+        padding: 16rem;
+        font-size: 50px;
+    } }
+
+@media (max-width: 766px){
+    .banner__heading  .head-post{
+        padding: 10rem;
+        font-size: 45px;
+    } }
+
+@media (max-width: 560px){
+    .banner__heading  .head-post{
+        padding: 5rem;
+        font-size: 40px;
+    } }
+
+@media (max-width: 425px){
+    .banner__heading  .head-post{
+        padding: 2rem;
+        font-size: 35px;
+    } }
+
+@media (max-width: 1150px) {
+    .banner__heading {
+
+      } }
 
 @media (max-width: 1150px) {
     .banner__heading {
@@ -880,7 +909,9 @@ p, li, a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 2rem; }
+    padding-bottom: 2rem;
+    background-attachment: fixed; }
+
 
 .community-header__headline {
     padding-top: 5rem;
@@ -1545,6 +1576,12 @@ section {
         padding-top: 0.75rem;
     }}
 
+@media (max-width: 910px) {
+    .project {
+      height: 342px;
+    }
+}
+
 
 video-mobile {
     display: block;
@@ -1557,6 +1594,43 @@ video-mobile {
 
 @media (max-width: 910px){.project-mobile {
     font-size: 2.5rem!important;
+}}
+
+@media (max-width: 690px){.project-mobile {
+    font-size: 1.5rem!important;
+}}
+
+@media (max-width: 910px){.date-mobile {
+    font-size: 1.3rem!important;
+    padding-top: 20px;
+}}
+
+@media (max-width: 690px){.date-mobile {
+    font-size: 1rem!important;
+
+}}
+
+@media (max-width: 910px){.comment-mobile {
+    font-size: 1.1rem!important;
+    padding-top: 10px;
+}}
+
+@media (max-width: 690px){.comment-mobile {
+    font-size: 1rem!important;
+
+}}
+
+@media (max-width: 910px){.ic-mobile {
+    padding-top: 10px!important;
+}}
+
+@media (max-width: 910px){.avatar-mobile {
+    padding-top: 10px!important;
+    width: 5%;
+}}
+
+@media (max-width: 910px){.hr1 {
+    display: none;
 }}
 
 @media (max-width: 430px) {

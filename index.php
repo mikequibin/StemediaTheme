@@ -165,45 +165,45 @@ get_header(); ?>
                         <div class="row row__50 mobile-full">
                             <div class="project project__1st">
                                 <p class="project__title1 no-bottom add-16"><a class="project-mobile project__title1 no-bottom add-16 decoration-none" href="http://v2.stemedia.org/the-truth-behind-your-favorite-makeup-brands/">The Truth Behind Your Favorite Makeup Brands</a></p>
-                                <p class="project__date1 no-bottom">Cynthia M. Sharpe - December (2017)</p>
+                                <p class="date-mobile project__date1 no-bottom">Cynthia M. Sharpe - December (2017)</p>
                                 <div class="project__comment">
-                                    <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
-                                    <p class="project__comment--content">0 Comments</p>
-                                    <a href="" target="_blank"><img class="project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-ic.png" alt=""/></a>
+                                    <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
+                                    <p class="comment-mobile project__comment--content">0 Comments</p>
+                                    <a href="" target="_blank"><img class="avatar-mobile project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-ic.png" alt=""/></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="row row__50 mobile-full add-2">
                             <div class="project project__2nd">
-                                <p><a class="project__title no-bottom decoration-none" href="http://v2.stemedia.org/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>
-                                <p class="project__date bottom-7__mobile no-bottom">Khalid Birdsong - December (2017)</p>
+                                <p><a class="project-mobile project__title no-bottom decoration-none" href="http://v2.stemedia.org/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>
+                                <p class="date-mobile project__date bottom-7__mobile no-bottom">Khalid Birdsong - December (2017)</p>
                                 <div class="project__comment">
-                                    <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
-                                    <p class="">0 Comments</p>
-                                    <img class="project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p2-ic.png" alt=""/>
+                                    <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
+                                    <p class="comment-mobile">0 Comments</p>
+                                    <img class="avatar-mobile project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p2-ic.png" alt=""/>
                                 </div>
                             </div>
 
                             <div class="flex-container-comm mobile-50">
                                 <div class="project project__3rd row row__50 mobile-full add-2">
-                                    <p><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/stem-in-the-kitchen-improve-your-cooking-with-science/">STEM in the Kitchen: Improve Your Cooking with Science!</a></p>
-                                    <p class="project__date3 no-bottom">J.C - December (2017)</p>
+                                    <p><a class="project-mobile project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/stem-in-the-kitchen-improve-your-cooking-with-science/">STEM in the Kitchen: Improve Your Cooking with Science!</a></p>
+                                    <p class="date-mobile project__date3 no-bottom">J.C - December (2017)</p>
                                     <img class="hr1" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/hr-line.png" alt=""/>
                                     <p class="text-white mobile-font1 no-bottom "> </p>
                                     <div class="project__comment">
-                                        <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
-                                        <p class="project__comment--content2">0 Comments</p>
-                                        <img class="right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>
+                                        <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
+                                        <p class="comment-mobile project__comment--content2">0 Comments</p>
+                                        <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>
                                     </div>
                                 </div>
                                 <div class="row row__50 project project__4th mobile-full add-2">
-                                    <p ><a class="project__title2 no-bottom top-7 top-7__mobile decoration-none" href="http://v2.stemedia.org/critical-thinker-elements-of-an-elite-stem-professional-5/">"Critical Thinker" | Elements of an Elite STEM Professional (#5)</a></p>
-                                    <p class="project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
+                                    <p ><a class="project-mobile project__title2 no-bottom top-7 top-7__mobile decoration-none" href="http://v2.stemedia.org/critical-thinker-elements-of-an-elite-stem-professional-5/">"Critical Thinker" | Elements of an Elite STEM Professional (#5)</a></p>
+                                    <p class="date-mobile project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
                                     <div class="project__comment top-4">
-                                        <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
-                                        <p class="project__comment--content2">0 Comments</p>
-                                        <img class="right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>
+                                        <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
+                                        <p class="comment-mobile project__comment--content2">0 Comments</p>
+                                        <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>
                                     </div>
                                 </div>
 
@@ -216,30 +216,30 @@ get_header(); ?>
 
                 <div class="flex-container-comm">
                     <div class="row__25 project project__5th">
-                        <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>
-                        <p class="project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
+                        <p ><a class="project-mobile project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>
+                        <p class="date-mobile project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>
                         <div class="project__comment no-bottom">
-                            <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>
-                            <p class="project__comment--content2">0 Comments</p>
-                            <img class="right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p5-ic.png" alt=""/>
+                            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>
+                            <p class="comment-mobile project__comment--content2">0 Comments</p>
+                            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p5-ic.png" alt=""/>
                         </div>
                     </div>
                     <div class="row row__50 project project__6th">
-                        <p ><a class="project__title6 top-7 no-bottom decoration-none" href="http://v2.stemedia.org/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>
-                        <p class="project__date3 no-bottom">Caila Hollley - June 2016</p>
+                        <p ><a class="project-mobile project__title6 top-7 no-bottom decoration-none" href="http://v2.stemedia.org/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>
+                        <p class="date-mobile project__date3 no-bottom">Caila Hollley - June 2016</p>
                         <div class="project__comment top-7__mobile">
-                            <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
-                            <p class="">0 Comments</p>
-                            <img class="right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p6-ic.png" alt=""/>
+                            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>
+                            <p class="comment-mobile">0 Comments</p>
+                            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p6-ic.png" alt=""/>
                         </div>
                     </div>
                     <div class="row__25 project project__7th">
-                        <p ><a class="project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/reach-your-resolutions/">Reach Your Resolutions!</a></p>
-                        <p class="project__date3 no-bottom">Cynthia Sharpe - December 2016</p>
+                        <p><a class="project-mobile project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/reach-your-resolutions/">Reach Your Resolutions!</a></p>
+                        <p class="date-mobile project__date3 no-bottom">Cynthia Sharpe - December 2016</p>
                         <div class="project__comment no-bottom">
-                            <img class="project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>
-                            <p class="project__comment--content2">0 Comments</p>
-                            <img class="right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p7-ic.png" alt=""/>
+                            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>
+                            <p class="comment-mobile project__comment--content2">0 Comments</p>
+                            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p7-ic.png" alt=""/>
                         </div>
                     </div>
                 </div>
