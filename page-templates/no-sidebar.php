@@ -4,8 +4,8 @@ Template Name: No Sidebar
 Template Post Type: post, page
 */
 get_header(); ?>
-	<div class="row">
-		<div id="primary" class="col-md-8 mb-xs-24 no-sidebar">
+	<div class="row lrpane lrshadows">
+		<div id="primary" class="mb-xs-24 no-sidebar">
 			<?php
 			while ( have_posts() ) : the_post();
 
