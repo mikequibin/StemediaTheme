@@ -2044,6 +2044,7 @@ textarea {
 .navbar-fixed-top.scrolled {
     background-color: #23282d;
     transition: background-color 200ms linear;
+    height: 40px;
 }
 
 .navbar-fixed-top.scrolled .nav-link {
@@ -4748,6 +4749,15 @@ footer.bg-dark a {
     margin: 0 auto;
 }
 
+.mb-xs-24.no-sidebar{}
+
+.mb-xs-24.no-sidebar article .entry-content .post-title{
+    display: none;
+}
+.mb-xs-24.no-sidebar article .entry-content .entry-meta{
+    display: none;
+}
+
 .full-width {
     width: 100%;
 }
@@ -5680,6 +5690,7 @@ iframe {
 
 .lrshadows{
     box-shadow: 0 0 2.5em 0.5em rgba(0,0,0,0.4);
+    margin-top: -10px;
 }
 
 /** Side Bar Widgets**/
