@@ -721,7 +721,8 @@ p, li, a {
     z-index: 2; }
 
 .banner__heading  .head-post{
-    padding: 23rem;
+    padding-bottom: 25rem;
+    padding-top: 25rem;
 }
 
 @media (max-width: 1000px){
