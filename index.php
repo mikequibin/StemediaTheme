@@ -88,7 +88,7 @@ get_header(); ?>
                         STEMedia™</br>
                         STEM•Media <span class="font-40"></span>
                     </h2>
-                    <p class="font-500 letter-spacing bottom-10 top-15"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!
+                    <p class="font-500 letter-spacing bottom-10 top-15 border-responsive"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!
                     </p>
 
                     <div class="white-button" id="popup__toggle">

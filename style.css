@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5 {
     font-weight: 500; }
 
 footer{
-    background-color: #fff;
+    background-color: #eceae7;
 }
 
 .header {
@@ -498,7 +498,8 @@ p, li, a {
 @media (max-width: 1093px) {
     .flex-container__footer {
         display: block!important;
-        margin: 0 1.87rem; } }
+        margin: 0 1.87rem; }
+}
 
 .z-top {
     position: relative;
@@ -1456,11 +1457,16 @@ p, ul, h1 {
     .logo-stem {
         display: none } }
 
+div.flex-container.flex-container__footer{
+    background-color: #eceae7;
+}
+
 .copyright{
-    background-color: #56565a !important;
+    background-color: #373433;
     text-align: center;
     margin-bottom: 0px!important;
     padding: 5px;
+    font-size: 0.7rem;
 }
 
 @media (max-width: 1093px) {
@@ -1489,11 +1495,15 @@ p, ul, h1 {
 
     }
 
+    .border-responsive{
+        margin: 10px 0;
+    }
+
 }
 
 @media (max-width: 767px){
     .banner__heading{
-        margin: 7rem .62rem 0rem 0.62rem;
+
     }
 
     .head-text{
@@ -2690,7 +2700,7 @@ p.lead {
     }
 
     p {
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 
@@ -2797,7 +2807,7 @@ th, td {
 }
 
 @media all and (max-width: 767px) {
-    section {
+    section{
         padding: 80px 0;
     }
 }
@@ -3573,7 +3583,6 @@ nav.fixed.scrolled {
 }
 
 .border-line{
-    height: 80px;
     background-color: #f3f3f3;
     margin-top: -10px;
     line-height: 0;
@@ -3585,6 +3594,7 @@ nav.fixed.scrolled {
     height: 55px;
     margin: 12px;
     opacity:0.4;
+    max-width: 100%;
 }
 
 /*!---------- 8. FORMS ----------*/
@@ -5751,6 +5761,35 @@ iframe {
     margin-top: -15px;
 }
 
+.post-content .entry-content .shapely-content p{
+    color: #6b6666 !important;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 35px;
+}
+
+.post-content .entry-content .shapely-content li{
+    color: #6b6666 !important;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 35px;
+}
+
+.post-content .entry-content .shapely-content li{
+    margin-bottom: 15px;
+}
+
+.post-content .entry-content .shapely-content p a{
+    color: #7081c1;
+    text-decoration: underline;
+    font-weight: 500
+}
+
+.post-content .entry-content .shapely-content p a:hover{
+    color: #da9950;
+    text-decoration: underline;
+}
+
 .blog-par{
     color: #6b6666!important;
     font-size: 15px;
@@ -5797,3 +5836,4 @@ iframe {
     color: #da9950;
     text-decoration: underline;
 }
+
