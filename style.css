@@ -1384,8 +1384,23 @@ p, ul, h1 {
     } }
 
 @media (max-width: 1150px) {
+    .mobile-margin45 {
+        padding-bottom: 8rem;
+        padding-top: 1rem;
+        text-align: center;
+    } }
+
+@media (max-width: 815px) {
+    .mobile-margin45 {
+        padding-bottom: 8rem;
+        padding-top: 4rem;
+        text-align: center;
+    } }
+
+@media (max-width: 1150px) {
     .comm-header-mobile {
-        margin-top: -190px; } }
+        margin-top: -190px;
+        } }
 
 .footer{
     background-color: #fff;
