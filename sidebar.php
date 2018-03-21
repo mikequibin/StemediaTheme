@@ -14,5 +14,6 @@ if ( ! is_active_sidebar( 'sidebar-1' ) || ! shapely_show_sidebar() ) {
 ?>
 
 <aside id="secondary" class="widget-area col-md-4 hidden-sm" role="complementary">
+	<!-- <?php echo "<section>Mac</section>" ?> -->
 	<?php dynamic_sidebar( 'sidebar-1' ); ?>
 </aside><!-- #secondary -->
