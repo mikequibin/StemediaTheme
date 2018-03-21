@@ -1261,7 +1261,9 @@ p, ul, h1 {
     background: url("../images/our-services-banner.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; }
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 .service-header__headline {
     padding-top: 5rem;
