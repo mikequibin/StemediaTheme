@@ -1194,7 +1194,6 @@ p, li, a {
 
 .color-overlay {
     background: url("assets/images/darkblue-bg.png") no-repeat center;
-    margin-top: 100px;
     padding-bottom: 5%;
     padding-right: 3.12rem;
     padding-left: 3.12rem;
@@ -5873,3 +5872,63 @@ iframe {
     text-decoration: underline;
 }
 
+a.green-btn, a.green-btn:link, a.green-transparent-btn, input.green-transparent-btn{
+    display: inline-block;
+    background-color: #fff;
+    color: #4c6aa6;
+    padding: 11px 88px;
+    margin: 0 auto;
+    font-family: 'Open Sans',sans-serif;
+    border: 2px solid #4c6aa6;
+    text-decoration: none;
+    text-align: center;
+    font-size: .9rem;
+    outline: 0;
+}
+
+a.green-btn:hover{
+    background-color: #4c6aa6;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.green-box{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.post-content .entry-content .post-title a {
+    font-weight: 300;
+    color: #f7a643f0;
+    font-size: 25px;
+    margin-bottom: 0!important;}
+
+.post-content .post-meta li a {
+    color: #4c6aa6;
+    font-weight: 400;}
+
+.widget.widget_search .search-form > input {
+    background: transparent;
+    border: 1px solid #000;
+    text-transform: initial;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.widget.widget_search .search-form > input#s:hover, .widget.widget_search .search-form > input#s:focus {
+    border-color: #f7a643f0;
+    box-shadow: none;
+    outline: none; }
+
+.widget.widget_search .search-form > .searchsubmit {
+    position: absolute;
+    border: none;
+    top: 7px;
+    right: 0;
+    margin: 0;
+    bottom: 7px;
+    height: 35px;
+    width: 40px;
+    border-left: 1px solid #000;
+    color: transparent;}
