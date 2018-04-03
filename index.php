@@ -203,6 +203,12 @@ get_header(); ?>
                 </div>
             </div>
 
+            <div class="green-box">
+                <a href="<?php echo get_home_url(); ?>/bloglist" class="green-btn">View All Blogs</a>
+            </div>
+
+
+
             <div class="video-section">
                 <div class="color-overlay">
                     <div class="text-container2"></div>
