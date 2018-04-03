@@ -2,7 +2,8 @@ body {
     margin: 0px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizelegibility;
-    overflow-x: hidden !important; }
+    overflow-x: hidden !important; 
+}
 
 img {
     max-width: 100%; }
@@ -5199,9 +5200,11 @@ blockquote:after {
 }
 .widget.widget_search .search-form > input {
     background: transparent;
-    border: 1px solid #ebebeb;
+    border: 1px solid #ffc886;
     text-transform: initial;
-    font-weight: 400; }
+    font-weight: 400;
+    text-transform: uppercase;
+ }
 .widget.widget_search .search-form > input#s:hover, .widget.widget_search .search-form > input#s:focus {
     border-color: #745cf9;
     box-shadow: none;
@@ -5216,7 +5219,8 @@ blockquote:after {
     height: 35px;
     width: 40px;
     border-left: 1px solid #ebebeb;
-    color: transparent; }
+    color: transparent; 
+}
 .widget.widget_search .search-form > .searchsubmit:hover, .widget.widget_search .search-form > .searchsubmit:focus, .widget.widget_search .search-form > .searchsubmit:active {
     color: transparent; }
 .widget.widget_search .search-form :-moz-placeholder {
@@ -5735,7 +5739,7 @@ iframe {
 }
 
 .lrshadows{
-    box-shadow: 0 0 2em 0em rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 2.5em 0.5em rgba(0, 0, 0, 0.4);
     margin-top: -10px;
     background-color: #fbfbfb;
 }
