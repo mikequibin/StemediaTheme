@@ -2,7 +2,7 @@ body {
     margin: 0px;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizelegibility;
-    overflow-x: hidden !important; 
+    overflow-x: hidden !important;
 }
 
 img {
@@ -5218,7 +5218,7 @@ blockquote:after {
     height: 35px;
     width: 40px;
     border-left: 1px solid #ebebeb;
-    color: transparent; 
+    color: transparent;
 }
 .widget.widget_search .search-form > .searchsubmit:hover, .widget.widget_search .search-form > .searchsubmit:focus, .widget.widget_search .search-form > .searchsubmit:active {
     color: transparent; }
@@ -5937,6 +5937,15 @@ a.green-btn:hover{
     border-left: 1px solid #000;
     color: transparent;}
 
-.mac{
-    
-}
+
+/*About Page*/
+
+/*Daren*/
+
+
+
+
+
+
+
+/*Mac*/
