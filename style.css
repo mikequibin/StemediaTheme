@@ -5955,3 +5955,88 @@ a.green-btn:hover{
 
 /*Mac*/
 
+.aboutpage{
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.flex-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.duo-flex{
+    width: 50%;
+}
+
+.blue-bg{
+
+
+}
+
+.blue-bg .width-30{
+    width: 55%;
+    background-color: #4669ab;
+    padding-left: 15px;
+
+}
+
+.blue-bg h2{
+    font-size: 40px;
+}
+
+
+.blue-bg h2 .bold{
+    font-weight: bold;
+    color: #fff;
+}
+
+.info{
+    margin-bottom: 4rem;
+    margin-top: 2rem
+}
+
+.topic{
+    font-weight: 500;
+    color: #6b6666;
+    font-size: 22px;
+}
+
+.subtopic{
+    margin: 0 0 1.5em 1.5em;
+    list-style-image: url('assets/images/blue-bullet.png');
+}
+
+.subtopic li{
+    padding-left: 10px;
+    font-size: 1rem;;
+}
+
+
+.info{
+
+}
+
+.info .blue-bordered{
+    width: 90%;
+    border: 3px solid #4669ab;
+    padding: 10px 5px 25px 20px;
+
+
+}
+
+.info .blue-bordered h5{
+    color: #4669ab;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info .blue-bordered p{
+    margin-bottom: 0px;
+}
+
+.info .blue-bordered b{
+    color: #4669ab;
+}
