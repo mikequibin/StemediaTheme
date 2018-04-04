@@ -5950,28 +5950,28 @@ a.green-btn:hover{
 .about-content{
     margin-top: 75px;
     margin-left: 50px;
+    margin-right: 50px;
 }
 
 .about-sub{
     color: #faa53f!important;
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 0px;
 
 }
 
 .about-title{
-    font-size: 60px!important;
+    font-size: 48px!important;
     color: #4669ab!important;
     font-weight: 800;
     margin-bottom: 0!important;}
 
 .about-par{
-    font-size: 22px;
-    width: 95%;}
+    font-size: 18px;}
 
 .text-red{
     color: #cc0000;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .row{
@@ -5983,7 +5983,7 @@ a.green-btn:hover{
 }
 
 .quote{
-    font-size: 30px;
+    font-size: 28px;
     text-align: center;
     font-weight: 300;
     margin-right: 50px;
@@ -6008,7 +6008,7 @@ a.green-btn:hover{
 }
 
 .about-line{
-    margin-left: -50px;
+    margin-left: -25px;
     margin-top: 10px;
 }
 
