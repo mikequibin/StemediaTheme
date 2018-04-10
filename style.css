@@ -5955,23 +5955,23 @@ a.green-btn:hover{
 
 .about-sub{
     color: #faa53f!important;
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-bottom: 0px;
 
 }
 
 .about-title{
-    font-size: 48px!important;
+    font-size: 3rem!important;
     color: #4669ab!important;
     font-weight: 800;
     margin-bottom: 0!important;}
 
 .about-par{
-    font-size: 18px;}
+    font-size: 1.125rem}
 
 .text-red{
     color: #cc0000;
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 .row{
@@ -5983,7 +5983,7 @@ a.green-btn:hover{
 }
 
 .quote{
-    font-size: 28px;
+    font-size: 1.75rem;
     text-align: center;
     font-weight: 300;
     margin-right: 50px;
@@ -5997,6 +5997,10 @@ a.green-btn:hover{
 
 .bolder{
     font-weight: 800;
+}
+
+.bold-1{
+    font-weight: 700;
 }
 
 .bold{
@@ -6043,7 +6047,7 @@ a.green-btn:hover{
 }
 
 .blue-bg h2{
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 
@@ -6060,7 +6064,7 @@ a.green-btn:hover{
 .topic{
     font-weight: 500;
     color: #6b6666;
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 
 .subtopic{
@@ -6098,4 +6102,27 @@ a.green-btn:hover{
 
 .info .blue-bordered b{
     color: #4669ab;
+}
+
+/*Work Page*/
+
+.border{
+    border: 5px solid #4669ab;
+}
+
+.margin-19{
+    margin: 0 19%;
+}
+
+.vid-par{
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: -15px;
+}
+
+.bottom-70{
+    margin-bottom: 70px;
+}
+.no-margin{
+    margin: 0px!important;
 }
