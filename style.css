@@ -808,7 +808,7 @@ p, li, a {
     .orange-bg {
         /*margin-bottom: 1.25rem;*/
         margin-top: 0px;
-        width: 100%; } }
+        width: 100%!important; } }
 
 @media (max-width: 1155px) {
     .orange-bg {
@@ -1269,7 +1269,8 @@ p, ul, h1 {
     background: url("../images/our-services-banner.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; }
+    /*background-size: cover; */
+}
 
 .service-header__headline {
     padding-top: 5rem;
@@ -3045,7 +3046,7 @@ nav {
 }
 
 .nav-bar .module, .nav-bar .module-group {
-    height: 55px;
+    height: 40px;
 }
 
 .nav-bar a {
@@ -6030,8 +6031,23 @@ a.green-btn:hover{
 
 }
 
+
 .duo-flex{
     width: 50%;
+}
+
+
+
+@media (max-width: 925px) {
+
+    .flex-wrapper-ref{
+        display: block;
+        width: 100%;}
+
+    .duo-flex-ref{
+        width: 100%;
+    }
+
 }
 
 .blue-bg{
