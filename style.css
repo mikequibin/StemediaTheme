@@ -278,15 +278,15 @@ p {
 .top-30 {
     padding-top: 1.87rem; }
 
+.top-30-about {
+    padding-top: 1.87rem; }
+
 @media (max-width: 1093px) {
     .top-30__footer-mobile {
         padding-top: 10px;
         margin-left: 0!important;} }
 
-@media (max-width: 1093px) {
-    .top-30 {
-        padding-top: 10px;
-        margin-left: 0!important;} }
+
 
 .top-20 {
     padding-top: 1.25rem; }
@@ -6024,6 +6024,37 @@ a.green-btn:hover{
     margin-right: 10px;
 }
 
+@media (max-width: 1093px) {
+    .aboutpage {
+        margin-left: 25px;
+        margin-right: 10px;
+    } }
+
+@media (max-width: 1093px) {
+    .top-30-about .aboutpage {
+        margin-left: 25px!important;
+        margin-right: 10px!important;} }
+
+@media (max-width: 715px) {
+    .top-30-about .aboutpage {
+        margin-left: 25px!important;
+        margin-right: 5%!important;} }
+
+@media (max-width: 670px) {
+    .top-30-about .aboutpage {
+        margin-left: 25px!important;
+        margin-right: 10%!important;} }
+
+@media (max-width: 645px) {
+    .top-30-about .aboutpage {
+        margin-left: 25px!important;
+        margin-right: 15%!important;} }
+
+@media (max-width: 595px) {
+     .aboutpage {
+        margin-left: 25px!important;
+        margin-right: 25%!important;} }
+
 .flex-wrapper{
     display: flex;
     justify-content: space-between;
@@ -6073,7 +6104,7 @@ a.green-btn:hover{
 }
 
 .info{
-    margin-bottom: 4rem;
+    margin-bottom: 3.5rem;
     margin-top: 2rem
 }
 
@@ -6135,6 +6166,12 @@ a.green-btn:hover{
     font-weight: 300;
     margin-top: -15px;
 }
+
+@media (max-width: 925px){
+    .vid-par{
+        margin: 0 auto;
+        margin-bottom: 3rem!important;
+        margin-top: -1rem;} }
 
 .bottom-70{
     margin-bottom: 70px;
