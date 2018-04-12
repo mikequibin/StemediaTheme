@@ -245,7 +245,7 @@ get_header(); ?>
             </div>
 
             <div class="banner__down-arrow">
-                <a class="jumper" href="#four"><img class="top-60 bottom-30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/down-arrow.PNG" alt=""/></a>
+                <a class="jumper" href="#four"><img class="top-60 bottom-30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/down-arrow.png" alt=""/></a>
             </div>
         </div>
     </div>
