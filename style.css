@@ -391,6 +391,9 @@ p {
     .bottom-7__mobile {
         padding-bottom: 4rem; } }
 
+.bottom-0{
+    margin-bottom: 0;
+}
 
 .bottom-5{
     padding-bottom: 5px;
@@ -622,6 +625,8 @@ p, li, a {
 @media (max-width: 1150px) {
     .row__50 {
         width: 108%; } }
+
+
 
 .row__45 {
     width: 45%; }
@@ -5991,10 +5996,25 @@ a.green-btn:hover{
     margin-top: -5%;
 }
 
+@media (max-width: 1150px) {
+    .quote{
+        margin: 0;}
+}
+
+@media (max-width: 680px) {
+    .quote{
+        margin: 0 30px 0 50px;}
+}
+
 .quote-image{
     margin-top: 15%;
     margin-left: 40%;
 }
+
+@media (max-width: 1150px) {
+    .quote-image{
+    display: none;}
+    }
 
 .bolder{
     font-weight: 800;
@@ -6015,6 +6035,23 @@ a.green-btn:hover{
 .about-line{
     margin-left: -25px;
     margin-top: 10px;
+}
+
+
+.row__50-mobile {
+    width: 50%;}
+
+
+@media (max-width: 1150px) {
+    .row__50-mobile {
+        width: 60%;
+        margin: 0 auto;
+        display: block; }
+}
+
+@media (max-width: 1150px) {
+    .text {
+        width: 100%;}
 }
 
 /*Mac*/

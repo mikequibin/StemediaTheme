@@ -20,7 +20,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
     <link rel="stylesheet" href="assets/css/home-page.min.css"/>
-    <link rel="stylesheet" href="assets/css/youtube.css"/>
+<!--    <link rel="stylesheet" href="assets/css/youtube.css"/>-->
     <link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="youtube.js"></script>

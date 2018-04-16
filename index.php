@@ -61,7 +61,7 @@ get_header(); ?>
     <div class="text-center">
         <div class="banner">
             <div class="banner__heading">
-                <h1 class="head-post text-center decoration-dark head-text">Technical Intelligence meets </br> Creative Genius</h1>
+                <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence meets </br> Creative Genius</h1>
             </div>
         </div>
     </div>
@@ -73,44 +73,44 @@ get_header(); ?>
     <!--    </div>-->
 </section>
 
-<div class="banner__down-arrow">
-    <a class="jumper z-top" href="#two"><img class="" style="padding-bottom: -20px;" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/down-arrow.png" alt=""/></a>
-</div>
+<!--<div class="banner__down-arrow">-->
+<!--    <a class="jumper z-top" href="#two"><img class="" style="padding-bottom: -20px;" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/down-arrow.png" alt=""/></a>-->
+<!--</div>-->
 
-<section>
-    <div class="white-box">
+<!--<section>-->
+<!--    <div class="white-box">-->
+<!---->
+<!--        <div class="flex-container flex-margin0">-->
+<!--            <div id="two"></div>-->
+<!--            <div class="row row__50 orange-bg">-->
+<!--                <div class="top-50 marginl-20 bottom-10 mobile-margin45">-->
+<!--                    <h2 class="text-white font-700 decoration-stem">-->
+<!--                        STEMedia™</br>-->
+<!--                        STEM•Media <span class="font-40"></span>-->
+<!--                    </h2>-->
+<!--                    <p class="font-500 letter-spacing bottom-10 top-15 border-responsive"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!-->
+<!--                    </p>-->
+<!---->
+<!--                    <div class="white-button" id="popup__toggle">-->
+<!--                        <img class="white-button__img" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/media-button.png" alt="" />-->
+<!--                        <h5 class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</h5>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="row row__50">-->
+<!--                <img class="video-mobile" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/video-mobile.png"  alt="">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="popup__overlay">-->
+<!--        <div class="popup" id="popupVid">-->
+<!--            <a href="#" class="popup__close">X</a>-->
+<!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/nbREm52cjXk?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
-        <div class="flex-container flex-margin0">
-            <div id="two"></div>
-            <div class="row row__50 orange-bg">
-                <div class="top-50 marginl-20 bottom-10 mobile-margin45">
-                    <h2 class="text-white font-700 decoration-stem">
-                        STEMedia™</br>
-                        STEM•Media <span class="font-40"></span>
-                    </h2>
-                    <p class="font-500 letter-spacing bottom-10 top-15 border-responsive"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!
-                    </p>
-
-                    <div class="white-button" id="popup__toggle">
-                        <img class="white-button__img" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/media-button.png" alt="" />
-                        <h5 class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="row row__50">
-                <img class="video-mobile" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/video-mobile.png"  alt="">
-            </div>
-        </div>
-    </div>
-    <div class="popup__overlay">
-        <div class="popup" id="popupVid">
-            <a href="#" class="popup__close">X</a>
-            <iframe width="854" height="480" src="https://www.youtube.com/embed/nbREm52cjXk?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-    </div>
-</section>
-
-<section class="top-60">
+<section class="">
     <div class="community-banner ">
         <div class="wrapperjoke">
             <div id="three"></div>
