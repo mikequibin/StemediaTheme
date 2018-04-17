@@ -6056,6 +6056,16 @@ a.green-btn:hover{
 @media (max-width: 1150px) {
     .text {
         width: 100%;}
+
+
+}
+
+.extra-top1{
+    padding-top: 1.5rem;
+}
+
+.extra-top2{
+    padding-top: 1.8rem;
 }
 
 /*Mac*/

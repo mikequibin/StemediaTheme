@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-feat2.png" afterPath="$PROJECT_DIR$/assets/images/logo-feat2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523934641706" ignored="false" />
     <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523872244524" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523935612946" ignored="false" />
+    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523936526084" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2239" column="21" selection-start="43395" selection-end="43395" vertical-scroll-proportion="0.39922482">
+            <state line="6063" column="20" selection-start="121845" selection-end="121845" vertical-scroll-proportion="0.5988372">
               <folding />
             </state>
           </provider>
@@ -187,7 +185,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1233" height="736" extended-state="0" />
+    <frame x="55" y="-8" width="1233" height="736" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -357,7 +355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2239" column="21" selection-start="43395" selection-end="43395" vertical-scroll-proportion="0.39922482">
+        <state line="6063" column="20" selection-start="121845" selection-end="121845" vertical-scroll-proportion="0.5988372">
           <folding />
         </state>
       </provider>
