@@ -2080,11 +2080,12 @@ textarea {
 
 .navbar-fixed-top {
     background-color: #23282d;
+    height: 60px;
 }
 .navbar-fixed-top.scrolled {
     background-color: #23282d;
     transition: background-color 200ms linear;
-    height: 40px;
+    height: 60px;
 }
 
 .navbar-fixed-top.scrolled .nav-link {
@@ -2236,6 +2237,7 @@ a:hover, a:active {
 
 #site-navigation .module.left {
     margin-left: 5px;
+    margin-top: 10px;
 }
 
 /*--------------------------------------------------------------
@@ -3070,9 +3072,9 @@ nav {
     text-transform: uppercase;
     text-align: left;
     position: relative;
-    padding-left: 2.26rem;
+    padding-left: 1.8rem;
     margin-bottom: 1.25rem;
-    font-weight: 500;
+    font-weight: 800;
     list-style: none;
 }
 
@@ -3123,7 +3125,7 @@ nav {
     position: relative;
     padding-left: 1.8rem;
     margin-bottom: 1.25rem;
-    font-weight: 500;
+    font-weight: 800;
     list-style: none;
 }
 
@@ -3477,6 +3479,8 @@ nav.fixed.scrolled {
 
     #site-navigation .module.left{
         margin-left: 15px;
+
+
     }
 
     .menu {
