@@ -530,7 +530,7 @@ p, li, a {
 .flex-container-comm {
     display: flex;
     justify-content: space-between;
-    cursor: pointer; }
+ }
 
 @media (max-width: 910px) {
     .flex-container-comm {
@@ -1105,6 +1105,11 @@ p, li, a {
     display: none;
 }
 
+
+.project p a:hover{
+    color: #fff;
+}
+
 .project__title1 {
     font-size: 3.31rem;
     color: #fff;
@@ -1260,7 +1265,7 @@ p, ul, h1 {
 .videoWrapper {
     position: relative;
     padding-bottom: 52.25%;
-    padding-top: 1.56rem;
+    padding-top: 1.7rem;
     height: 0; }
 
 .videoWrapper iframe {
@@ -1274,7 +1279,7 @@ p, ul, h1 {
     background: url("../images/our-services-banner.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
-    /*background-size: cover; */
+    background-size: cover;
 }
 
 .service-header__headline {
@@ -4590,6 +4595,7 @@ iframe {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     opacity: 1;
+    cursor: pointer;
 }
 
 .project .image-tile {
@@ -5941,7 +5947,8 @@ a.green-btn:hover{
     height: 35px;
     width: 40px;
     border-left: 1px solid #000;
-    color: transparent;}
+    color: #000;
+}
 
 
 .mac{
