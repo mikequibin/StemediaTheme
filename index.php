@@ -52,7 +52,7 @@ get_header(); ?>
     </video>
     <div class="border-line">
         <a class="jumper" href="#four">
-            <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat2.png" alt=""/>
+            <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat3.png" alt=""/>
         </a>
     </div>
 </header>
