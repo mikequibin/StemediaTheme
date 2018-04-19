@@ -61,16 +61,27 @@ get_header(); ?>
     <div class="text-center">
         <div class="banner">
             <div class="banner__heading">
-                <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence meets </br> Creative Genius</h1>
+                <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence meets </br> Creative Genius </br>
+                    <span>
+                        <div id="popup__toggle">
+                             <img class="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/white-btn.png" alt="" />
+                        </div>
+                    </span>
+                </h1>
+
+
             </div>
         </div>
     </div>
-    <!--    <div class="social-media">-->
-    <!--        <a href="https://www.instagram.com/_stemedia/" target="_blank"><img class="bottom-15" src="assets/images/insta-icon.png" alt=""/></br></a>-->
-    <!--        <a href="https://www.facebook.com/STEM.Media/" target="_blank"><img class="bottom-15" src="assets/images/fb-icon.png" alt=""/></br></a>-->
-    <!--        <a href="https://twitter.com/_STEMedia" target="_blank"><img class="bottom-15" src="assets/images/twitter-icon.png" alt=""/></br></a>-->
-    <!--        <a href="https://www.youtube.com/stemediaorg" target="_blank"><img class="bottom-15" src="assets/images/youtube-icons.png" alt=""/></a>-->
-    <!--    </div>-->
+
+
+    <div class="popup__overlay">
+        <div class="popup" id="popupVid">
+            <a href="#" class="popup__close">X</a>
+            <iframe width="1054" height="680" src="https://www.youtube.com/embed/nbREm52cjXk?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+    </div>
+
 </section>
 
 <!--<div class="banner__down-arrow">-->

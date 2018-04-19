@@ -90,7 +90,7 @@
 <footer>
     <div class="flex-container flex-container__footer">
         <div class="row__68">
-            <ul class="top-30 top-30__footer--mobile">
+            <ul class="top-30 top-30 footer--mobile footer-mob">
                 <li class="checklist__item float">
                     <a class="font-700 decoration-none text-blue txt-2" href="">ABOUT</a>
                 </li>
