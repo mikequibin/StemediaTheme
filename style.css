@@ -3052,12 +3052,12 @@ nav .btn, .nav-bar .btn {
     max-width: 1390px;
     margin: 0 auto;
 }
-
 nav {
     /**border-bottom: 1px solid rgba(0, 0, 0, 0.1);**/
 }
 
 .nav-bar .module, .nav-bar .module-group {
+    background-color: #23282d;
     height: 40px;
 }
 
