@@ -13,42 +13,13 @@
  */
 get_header(); ?>
 <?php $layout_class = shapely_get_layout_class();?>
-    <!--	<div class="row">-->
-    <!--		--><?php
-//		if ( $layout_class == 'sidebar-left' ):
-//			get_sidebar();
-//		endif;
-//		?>
-    <!--<!--		<div id="primary" class="col-md-8 mb-xs-24 --><?php ////echo esc_attr( $layout_class ); ?><!--<!--">--><?php
-////			if ( have_posts() ) :
-////
-////
-////
-////				$layout_type = get_theme_mod( 'blog_layout_view', 'grid' );
-////
-////				get_template_part( 'template-parts/layouts/blog', $layout_type );
-////
-////				shapely_pagination();
-////
-////			else :
-////
-////				get_template_part( 'template-parts/content', 'none' );
-////
-////			endif; ?>
-    <!--<!--		</div><!-- #primary -->
-    <!--<!--		--><?php
-////		if ( $layout_class == 'sidebar-right' ):
-////			get_sidebar();
-////		endif;
-//		?>
-    <!--	</div>-->
 
 <body>
 
 <header>
     <video autoplay muted loop class="fullvideo-container">
         <source src="assets/videos/bg-video4.mp4" type="video/mp4">
-        <source src="assets/videos/bg-video4.webm" type="video/webm">
+<!--        <source src="assets/videos/bg-video4.webm" type="video/webm">-->
     </video>
     <div class="border-line">
         <a class="jumper" href="#four">
@@ -68,12 +39,9 @@ get_header(); ?>
                         </div>
                     </span>
                 </h1>
-
-
             </div>
         </div>
     </div>
-
 
     <div class="popup__overlay">
         <div class="popup" id="popupVid">
@@ -145,7 +113,6 @@ get_header(); ?>
                         </div>
                     </div>
 
-
                     <div class="row row__50 mobile-full add-2">
                         <div class="project project__2nd" onclick="window.location='http://v2.stemedia.org/heres-why-you-should-watch-more-scifi-movies/';">
                             <p><a class="project-mobile project__title no-bottom decoration-none" href="http://v2.stemedia.org/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>
@@ -185,7 +152,6 @@ get_header(); ?>
                 </div>
             </div>
 
-
             <div class="flex-container-comm">
                 <div class="row__25 project project__5th" onclick="window.location='http://v2.stemedia.org/confidence-elements-of-an-elite-stem-professional-6/';">
                     <p ><a class="project-mobile project__title2 no-bottom decoration-none" href="http://v2.stemedia.org/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>
@@ -219,8 +185,6 @@ get_header(); ?>
             <div class="green-box">
                 <a href="<?php echo get_home_url(); ?>/bloglist" class="green-btn">View All Blogs</a>
             </div>
-
-
 
             <div class="video-section">
                 <div class="color-overlay">
