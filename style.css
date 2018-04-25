@@ -6346,4 +6346,5 @@ div#user-submitted-posts fieldset input.usp-input{
 input[type="submit"]{
     background: #3e598d;
     text-shadow: 0.1rem 0.1rem 0px #846035;
+    border: 2px solid #5c87d9;
 }
