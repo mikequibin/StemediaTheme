@@ -6045,7 +6045,7 @@ a.green-btn:hover{
 }
 
 .quote{
-    font-size: 1.75rem;
+    font-size: 1.75rem!important;
     text-align: center;
     font-weight: 300;
     margin-right: 50px;
@@ -6305,4 +6305,45 @@ a.green-btn:hover{
 
 .sample{}
 
-/*Submit Content*/
+/* Submit Content */
+
+.entry-header{
+    margin-top: 1rem;
+}
+
+.entry-header .entry-title{
+    font-size: 1.25rem;
+    margin-bottom: 0;
+    background-color: #dddddd;
+    line-height: 2.3rem;
+    padding-left: .7rem;
+    margin-top: 2.6rem;
+    border: 1px solid #dfdfdf;
+}
+
+div#user-submitted-posts fieldset{
+    margin-bottom: 1.5rem;
+}
+
+div#user-submitted-posts fieldset label{
+    margin-bottom: .5rem;
+    font-size: 14px;
+}
+
+div#user-submitted-posts fieldset input.usp-input{
+    height: 35px;
+    font-size: .8rem
+}
+
+.widget.widget_search .search-form > input{
+    margin-top: 10px;
+}
+
+.widget.widget_search .search-form > .searchsubmit{
+    margin-top: 10px;
+}
+
+input[type="submit"]{
+    background: #3e598d;
+    text-shadow: 0.1rem 0.1rem 0px #846035;
+}

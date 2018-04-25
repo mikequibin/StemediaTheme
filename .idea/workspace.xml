@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1524646381511" ignored="false" />
     <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523872244524" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1524646561045" ignored="false" />
+    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1524652317274" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
     <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1524453376107" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6307" column="16" selection-start="125230" selection-end="125230" vertical-scroll-proportion="0.80754715">
+            <state line="6047" column="32" selection-start="121752" selection-end="121752" vertical-scroll-proportion="0.36633664">
               <folding />
             </state>
           </provider>
@@ -358,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6307" column="16" selection-start="125230" selection-end="125230" vertical-scroll-proportion="0.80754715">
+        <state line="6047" column="32" selection-start="121752" selection-end="121752" vertical-scroll-proportion="0.36633664">
           <folding />
         </state>
       </provider>
