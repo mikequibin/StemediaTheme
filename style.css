@@ -6348,3 +6348,16 @@ input[type="submit"]{
     text-shadow: 0.1rem 0.1rem 0px #846035;
     border: 2px solid #5c87d9;
 }
+
+/* CONTACT PAGE */
+
+label{
+    margin-bottom: .5rem;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+input[type="text"], input[type="search"], input[type="email"], input[type="tel"]{
+    height: 35px;
+    margin-bottom: 0px!important;
+}
