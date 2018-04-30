@@ -162,7 +162,7 @@ get_header(); ?>
                         <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p5-ic.png" alt=""/>
                     </div>
                 </div>
-                <div class="row row__50 project project__6th" onclick="window.location='http://v2.stemedia.org/the-pursuit-of-inspiration/';">
+                <div class="row row__50 project project__6th mobile-full" onclick="window.location='http://v2.stemedia.org/the-pursuit-of-inspiration/';">
                     <p ><a class="project-mobile project__title6 top-7 no-bottom decoration-none" href="http://v2.stemedia.org/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>
                     <p class="date-mobile project__date3 no-bottom">Caila Hollley - June 2016</p>
                     <div class="project__comment top-7__mobile">
