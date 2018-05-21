@@ -745,6 +745,14 @@ p, li, a {
     }
 }
 
+@media (max-width: 1300px) {
+    .banner__heading .head-post {
+        /*margin: 7rem 0.62rem 30rem 0.62rem; */
+        padding-bottom: 8rem;
+        padding-top: 10rem;
+    }
+}
+
 .banner__down-arrow {
     margin: 0 auto;
     width: 4.37rem;
@@ -6257,7 +6265,7 @@ a.green-btn:hover{
     }
 
     .vsl-video{
-        max-width: 500px;
+        max-width: 600px;
     }
 
     .vid-par{
