@@ -19,22 +19,22 @@
         <div class="row__68">
             <ul class="top-30 no-margin">
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">ABOUT</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/about">ABOUT</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">BLOG</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/bloglist">BLOG</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">WORK</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/work">WORK</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">CONTACT</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/contact">CONTACT</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">SHOP</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/shop">SHOP</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="">SUBMIT CONTENT</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/submit-content">SUBMIT CONTENT</a>
                 </li>
             </ul>
         </div>

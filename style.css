@@ -435,6 +435,9 @@ p {
 .left-20 {
     margin-left: 1.25rem; }
 
+.left-4 {
+    margin-left: -4px; }
+
 .height-342 {
     height: 342px; }
 
@@ -530,6 +533,10 @@ p, li, a {
 .flex-container-comm {
     display: flex;
     justify-content: space-between;
+}
+
+.flex-30{
+	margin: 0 30px;
 }
 
 @media (max-width: 910px) {
@@ -718,7 +725,7 @@ p, li, a {
 }
 
 .banner__heading {
-    background: url("../images/creative-genius.png") no-repeat center;
+    background: url("https://i.imgur.com/hl4f77U.jpg") no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
@@ -731,35 +738,6 @@ p, li, a {
     padding-bottom: 25rem;
     padding-top: 25rem;
 }
-
-@media (max-width: 1000px){
-    .banner__heading  .head-post{
-        padding: 16rem;
-        font-size: 50px;
-    } }
-
-@media (max-width: 766px){
-    .banner__heading  .head-post{
-        padding: 10rem;
-        font-size: 45px;
-    } }
-
-@media (max-width: 560px){
-    .banner__heading  .head-post{
-        padding: 5rem;
-        font-size: 40px;
-    } }
-
-@media (max-width: 425px){
-    .banner__heading  .head-post{
-        padding: 2rem;
-        font-size: 35px;
-    } }
-
-@media (max-width: 1150px) {
-    .banner__heading {
-
-    } }
 
 @media (max-width: 1150px) {
     .banner__heading {
@@ -912,8 +890,12 @@ p, li, a {
     .blue-border {
         display: none; } }
 
+.community-project {
+	margin: 0 30px;
+}
+
 .community-banner {
-    background: url("../images/community-banner.jpg") center 0;
+    background: url("https://i.imgur.com/eL0fR8q.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -937,7 +919,7 @@ p, li, a {
     padding: 1rem; }
 
 .project__1st {
-    background: url("../images/blog1.jpg");
+    background: url("https://i.imgur.com/4rmbiK8.jpg");
     height: 684px;
     background-repeat: repeat;
     background-position-x: center;
@@ -955,7 +937,7 @@ p, li, a {
         background-size: cover; } }
 
 .project__2nd {
-    background: url("../images/blog2.jpg");
+    background: url("https://i.imgur.com/EOppJfo.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -973,7 +955,7 @@ p, li, a {
         background-size: cover; } }
 
 .project__3rd {
-    background: url("../images/blog3.jpg");
+    background: url("https://i.imgur.com/niWcJ8z.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -991,7 +973,7 @@ p, li, a {
         background-size: cover; } }
 
 .project__4th {
-    background: url("../images/blog4.jpg");
+    background: url("https://i.imgur.com/fPNW5nZ.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -1009,7 +991,7 @@ p, li, a {
         background-size: cover; } }
 
 .project__5th {
-    background: url("../images/blog5.jpg");
+    background: url("https://i.imgur.com/ySvHzGW.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -1028,7 +1010,7 @@ p, li, a {
         margin-top: 2rem; } }
 
 .project__6th {
-    background: url("../images/blog6.jpg");
+    background: url("https://i.imgur.com/SmI637I.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -1047,7 +1029,7 @@ p, li, a {
         margin-top: 2rem; } }
 
 .project__7th {
-    background: url("../images/blog7.jpg");
+    background: url("https://i.imgur.com/jLb8Y7W.jpg");
     height: 342px;
     background-repeat: repeat;
     background-position-x: center;
@@ -1204,7 +1186,7 @@ p, li, a {
         font-size: 0.9rem; } }
 
 .color-overlay {
-    background: url("assets/images/darkblue-bg.png") no-repeat center;
+    background: url("https://i.imgur.com/VqomVfT.png") no-repeat center;
     padding-bottom: 5%;
     padding-right: 3.12rem;
     padding-left: 3.12rem;
@@ -1276,7 +1258,7 @@ p, ul, h1 {
     height: 100%; }
 
 .service-banner {
-    background: url("../images/our-services-banner.jpg") center 0;
+    background: url("https://i.imgur.com/SWmnvUd.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6358,10 +6340,11 @@ input[type="submit"]{
 label{
     margin-bottom: .5rem;
     font-size: 14px;
+    color: #000000;
 }
 
 input[type="text"], input[type="search"], input[type="email"], input[type="tel"]{
-    height: 35px;
+    height: 50px;
     margin-bottom: 0px!important;
 }
 
