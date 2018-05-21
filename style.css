@@ -902,6 +902,10 @@ p, li, a {
 	margin: 0 30px;
 }
 
+@media (max-width: 1000px) {
+    .community-project {
+        margin: 0; } }
+
 .community-banner {
     background: url("https://i.imgur.com/eL0fR8q.jpg") center 0;
     background-position: center;
