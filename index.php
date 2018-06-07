@@ -17,7 +17,7 @@ get_header(); ?>
 <body>
 
 <header>
-    <video autoplay muted loop class="fullvideo-container">
+    <video autoplay muted loop class="fullvideo-container" poster="https://i.imgur.com/Gs5Onhg.jpg">
         <source src="https://player.vimeo.com/external/258886944.sd.mp4?s=cdffd17404b60618ee02044fd87a87dfeeb68d3f&profile_id=165&autoplay=1" type="video/mp4">
 <!--         <source src="assets/videos/bg-video4.mp4" type="video/mp4">-->
 <!--        <source src="assets/videos/bg-video4.webm" type="video/webm">-->

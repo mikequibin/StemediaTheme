@@ -30,16 +30,13 @@
 <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'shapely' ); ?></a>
 
-    <header class="header" id="masthead" class="site-header" role="banner">
+    <header class="header " id="masthead" class="site-header" role="banner">
 
         <div class="nav-container">
             <nav id="site-navigation" class="main-navigation navbar-fixed-top" role="navigation">
                 <div class="nav-bar">
                     <div class="row">
-                        <div class="module left site-title-container">
-                            <?php shapely_get_header_logo(); ?>
-                            <!--<a href=""><img class="float" src="assets/images/stem-logo.png" alt=""></a>-->
-                        </div>
+
                         <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                             <i class="fa fa-bars"></i>
                         </div>
