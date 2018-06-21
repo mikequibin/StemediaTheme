@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1528354186083" ignored="false" />
-    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1528357040898" ignored="false" />
-    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1528299952401" ignored="false" />
+    <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1529474096226" ignored="false" />
+    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1529398931303" ignored="false" />
+    <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1529481209205" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
-    <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1524453376107" ignored="false" />
+    <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1529481734596" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +36,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="51" selection-start="891" selection-end="891" vertical-scroll-proportion="-10.461538">
+            <state line="336" column="22" selection-start="22916" selection-end="22916" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="76" selection-start="1491" selection-end="1491" vertical-scroll-proportion="-4.576923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6377" column="0" selection-start="126621" selection-end="126621" vertical-scroll-proportion="0.80754715">
+            <state line="6615" column="0" selection-start="130627" selection-end="130627" vertical-scroll-proportion="-7.72">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="126" selection-start="1359" selection-end="1372" vertical-scroll-proportion="0.6111111">
               <folding />
             </state>
           </provider>
@@ -77,10 +78,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/footer.php" />
       </list>
     </option>
   </component>
@@ -145,6 +146,9 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -164,7 +168,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25704527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34674656" sideWeight="0.67068964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20119864" sideWeight="0.67068964" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -240,13 +244,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="208" column="0" selection-start="12462" selection-end="12462" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5892" column="11" selection-start="119430" selection-end="119430" vertical-scroll-proportion="0.0">
@@ -306,28 +303,35 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="21" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="76" selection-start="1491" selection-end="1491" vertical-scroll-proportion="-4.576923">
+        <state line="32" column="76" selection-start="1491" selection-end="1491" vertical-scroll-proportion="-5.230769" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="4" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.33212996">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="51" selection-start="891" selection-end="891" vertical-scroll-proportion="-10.461538">
+        <state line="336" column="22" selection-start="22916" selection-end="22916" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6377" column="0" selection-start="126621" selection-end="126621" vertical-scroll-proportion="0.80754715">
+        <state line="6615" column="0" selection-start="130627" selection-end="130627" vertical-scroll-proportion="-7.72">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="126" selection-start="1359" selection-end="1372" vertical-scroll-proportion="0.6111111">
           <folding />
         </state>
       </provider>

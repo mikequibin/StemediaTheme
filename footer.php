@@ -28,10 +28,10 @@
                     <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/work">WORK</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/contact">CONTACT</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/resources">RESOURCE</a>
                 </li>
                 <li class="checklist__item float">
-                    <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/shop">SHOP</a>
+                    <a class="font-700 decoration-none text-blue txt-2" href="https://www.ideationproducts.com/" target=_blank>SHOP</a>
                 </li>
                 <li class="checklist__item float">
                     <a class="font-700 decoration-none text-blue txt-2" href="http://stemedia.org/submit-content">SUBMIT CONTENT</a>
