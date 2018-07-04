@@ -17,7 +17,7 @@ get_header(); ?>
     <body>
 
     <header>
-        <video autoplay muted loop class="fullvideo-container" poster="https://i.imgur.com/FNvEo3b.jpg">
+        <video autoplay muted loop class="fullvideo-container" poster="https://imgur.com/lKlQQfN.jpg">
             <source src="https://player.vimeo.com/external/258886944.sd.mp4?s=cdffd17404b60618ee02044fd87a87dfeeb68d3f&profile_id=165&autoplay=1" type="video/mp4">
             <!--         <source src="assets/videos/bg-video4.mp4" type="video/mp4">-->
             <!--        <source src="assets/videos/bg-video4.webm" type="video/webm">-->
@@ -60,7 +60,7 @@ get_header(); ?>
                     <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence meets </br> Creative Genius </br>
                     <span>
                         <div id="popup__toggle">
-                            <a href="https://www.youtube.com/embed/nbREm52cjXk" class="vp-s"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/white-btn.png" alt="" /></a>
+                            <a class="vp-a" href="https://vimeo.com/259292743" target="_blank" rel="nofollow"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/white-btn.png" alt="" /></a>
                         </div>
                     </span>
                     </h1>
@@ -221,28 +221,119 @@ get_header(); ?>
                         </div>
                         <div class="flex-container3">
 
-                            <div class="row row__33 mobile-full">
-                                <div class="video-container vsl-video">
-                                    <div class="videoWrapper">
-                                        <iframe width="854" height="480" src="https://www.youtube.com/embed/zDappKOl2fg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/zDappKOl2fg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/9BshxkR4iKo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/MNGTCPHWMGQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+
+                            <div style="">
+                                <div id="thumbnail-slider">
+                                    <div class="inner">
+                                        <ul>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://imgur.com/uouY310.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://imgur.com/mpBxJMi.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://imgur.com/zQdYq5g.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://imgur.com/9nf7cv1.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=jW0GTZcwYwE" target="_blank" rel="nofollow"><img src="https://imgur.com/6UQVs0M.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://imgur.com/uouY310.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://imgur.com/mpBxJMi.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://imgur.com/zQdYq5g.png" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://imgur.com/9nf7cv1.png" alt=""></a>
+                                            </li>
+                                          
+
+                                        </ul>
                                     </div>
                                 </div>
+                                <!--   <div id="thumbs2" style="display:none;">-->
+                                <!--       <div class="inner">-->
+                                <!--           <ul>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/229929180" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/229951557" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/230610982" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/DYrsL4OJyTI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/jW0GTZcwYwE?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>-->
+                                <!--               </li>-->
+                                <!--<li>-->
+                                <!--                   <a class="thumb" href="img/1.jpg"></a>-->
+                                <!--               </li>-->
+                                <!--           </ul>-->
+                                <!--       </div>-->
+                                <!--       <div id="closeBtn">CLOSE</div>-->
                             </div>
-                            <div class="row row__33 mobile-full">
-                                <div class="video-container vsl-video">
-                                    <div class="videoWrapper">
-                                        <iframe width="854" height="480" src="https://www.youtube.com/embed/9BshxkR4iKo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row row__33 mobile-full">
-                                <div class="video-container vsl-video">
-                                    <div class="videoWrapper">
-                                        <iframe width="854" height="480" src="https://www.youtube.com/embed/MNGTCPHWMGQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-                                    </div>
-                                </div>
-                            </div>
+
+                            <script>
+                                //Note: this script should be placed at the bottom of the page, or after the slider markup. It cannot be placed in the head section of the page.
+                                var thumbs1 = document.getElementById("thumbnail-slider");
+                                var thumbs2 = document.getElementById("thumbs2");
+                                var closeBtn = document.getElementById("closeBtn");
+                                var slides = thumbs1.getElementsByTagName("li");
+                                for (var i = 0; i < slides.length; i++) {
+                                    slides[i].index = i;
+                                    slides[i].onclick = function (e) {
+                                        var li = this;
+                                        var clickedEnlargeBtn = false;
+                                        if (e.offsetX > 220 && e.offsetY < 25) clickedEnlargeBtn = true;
+                                        if (li.className.indexOf("active") != -1 || clickedEnlargeBtn) {
+                                            thumbs2.style.display = "block";
+                                            mcThumbs2.init(li.index);
+                                        }
+                                    };
+                                }
+
+                                thumbs2.onclick = closeBtn.onclick = function (e) {
+                                    //This event will be triggered only when clicking the area outside the thumbs or clicking the CLOSE button
+                                    thumbs2.style.display = "none";
+                                };
+                            </script>
                         </div>
+
+                        </div>
+                        
+                        <!--<?php echo do_shortcode("[MDSL id=1558]"); ?>-->
                     </div>
                 </div>
 
@@ -293,43 +384,43 @@ get_header(); ?>
                 <div class="flex-container-ourservices">
                     <div class="flex-container-ourservices__mobile row row__33 box-white text-center service-shadow top-25">
                         <div class="video-production">
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/vpro-ic.png" alt=""/>
+                            <a href="http://www.stemedia.org/work"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/vpro-ic.png" alt=""/></a>
                             <p class="box-white__title no-bottom top-20">VIDEO PRODUCTION
                             </p>
 
                             <div class="hover">
                                 <div class="hr-3 top-20"></div>
-                                <p class="box-white__list top-20"><a href="" class="hover__orange">Concept Development</a></p>
-                                <p class="box-white__list"><a href="" class="hover__orange">Script Writing</a></p>
-                                <p class="box-white__list"><a href="" class="hover__orange">Filming and Editing</a></p>
+                                <p class="box-white__list top-20"><a href="http://www.stemedia.org/work" class="hover__orange">Concept Development</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__orange">Script Writing</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__orange">Filming and Editing</a></p>
                             </div>
                         </div>
                     </div>
 
                     <div class="flex-container-ourservices__mobile row row__33 box-white text-center service-shadow top-40">
                         <div class="branded-content">
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/brand-ic.png" alt=""/>
+                            <a href="http://www.stemedia.org/work"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/brand-ic.png" alt=""/></a>
                             <p class="box-white__title no-bottom top-20">BRANDED CONTENT</p>
 
                             <div class="">
                                 <div class="hr-3 top-20"></div>
-                                <p class="box-white__list top-20"><a href="" class="hover__darkblue">Sponsored Blog Posts</a></p>
-                                <p class="box-white__list"><a href="" class="hover__darkblue">Social Media</br>Content Creation</a></p>
-                                <p class="box-white__list"><a href="" class="hover__darkblue">Advertising</a></p>
+                                <p class="box-white__list top-20"><a href="http://www.stemedia.org/work" class="hover__darkblue">Sponsored Blog Posts</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__darkblue">Social Media</br>Content Creation</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__darkblue">Advertising</a></p>
                             </div>
                         </div>
                     </div>
 
                     <div class="flex-container-ourservices__mobile row row__33 box-white text-center service-shadow top-40">
                         <div class="live-events">
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/event-ic.png" alt=""/>
+                            <a href="http://www.stemedia.org/work"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/event-ic.png" alt=""/></a>
                             <p class="box-white__title no-bottom top-20">LIVE EVENTS</p>
 
                             <div class="">
                                 <div class="hr-3 top-20"></div>
-                                <p class="box-white__list top-20"><a href="" class="hover__red">Keynotes and Lectures</a></p>
-                                <p class="box-white__list"><a href="" class="hover__red">STEM Workshop</a></p>
-                                <p class="box-white__list"><a href="" class="hover__red">Sponsored Experience</a></p>
+                                <p class="box-white__list top-20"><a href="http://www.stemedia.org/work" class="hover__red">Keynotes and Lectures</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__red">STEM Workshop</a></p>
+                                <p class="box-white__list"><a href="http://www.stemedia.org/work" class="hover__red">Sponsored Experience</a></p>
                             </div>
 
                         </div>
@@ -339,6 +430,7 @@ get_header(); ?>
         </div>
 
     </section>
+
     </body>
 
 <?php

@@ -50,7 +50,7 @@
         </div>
     </div>
     <div class="copyright">
-        <p class="font-700 text-gray copyright text-white">© 2017 STEMEDIA.ORG | ALL RIGHTS RESERVED </p>
+        <p class="font-700 text-gray copyright text-white">© 2018 WWW.STEMEDIA.ORG | ALL RIGHTS RESERVED </p>
     </div>
 
 </footer>
@@ -111,6 +111,8 @@
         toggleVideo("hide");
     });
 </script>
+
+
 
 </body>
 </html>

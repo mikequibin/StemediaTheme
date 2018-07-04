@@ -438,6 +438,14 @@ p {
 .left-4 {
     margin-left: -4px; }
 
+.left-65{
+    margin-left: 65px!important;
+}
+
+.left-30{
+    margin-left: 30px!important;
+}
+
 .height-342 {
     height: 342px; }
 
@@ -722,11 +730,18 @@ p, li, a {
         padding-left: 0!important; }}
 
 .banner{
-    background: #c6c6c6;
+    background: url("https://imgur.com/dCYL0w2.jpg") no-repeat center;
+    background-size: cover;
+}
+
+@media (max-width: 1150px){
+    .banner{
+        height: 600px;
+    }
 }
 
 .banner__heading {
-    background: url("https://imgur.com/Xt499FL.jpg") no-repeat center;
+    /*background: url("https://imgur.com/ofyuTBc.jpg") no-repeat center;*/
     background-attachment: fixed;
     background-size: cover;
     background-position: 0 0;
@@ -742,7 +757,7 @@ p, li, a {
 
 @media (max-width: 850px){
     .banner__heading {
-        background: url("https://imgur.com/Xt499FL.jpg") no-repeat center;
+        /*background: url("https://imgur.com/ofyuTBc.jpg") no-repeat center;*/
         background-size: 100%;
     }
     .banner__heading .head-post{
@@ -960,7 +975,7 @@ p, li, a {
         margin: 0; } }
 
 .community-banner {
-    background: url("https://i.imgur.com/eL0fR8q.jpg") center 0;
+    background: url("https://imgur.com/STP38ti.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1383,7 +1398,7 @@ p, ul, h1 {
     height: 100%; }
 
 .service-banner {
-    background: url("https://i.imgur.com/SWmnvUd.jpg") center 0;
+    background: url("https://imgur.com/0bD695y.jpg") center 0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3776,13 +3791,20 @@ input[type="text"]:focus, input[type="search"]:focus {
 }
 
 textarea {
-    width: 100%;
+    width: 117%;
     border: none;
     background: #f5f5f5;
     margin-bottom: 24px;
     border-radius: 0;
     padding: 16px 20px;
 }
+
+@media (max-width: 800px){
+    .textarea {
+        width: 100%;
+    }
+}
+
 
 textarea:focus {
     outline: 1px solid #ccc;
@@ -3826,7 +3848,6 @@ input.transparent:-ms-input-placeholder, button.transparent:-ms-input-placeholde
 
 input[type="submit"] {
     background: #745cf9;
-    border-radius: 0 !important;
     border: 2px solid #745cf9;
     color: #fff;
     font-size: 11px;
@@ -5952,6 +5973,14 @@ iframe {
 
 /*Article Page*/
 
+.ask-par{
+    font-size: 16!important;
+    color: #acb0ba!important;
+    width: 79%;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+
 .image-banner{
     margin-left: -40px;
     max-width: 116%;
@@ -5977,6 +6006,7 @@ iframe {
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     margin-right: 35px;
+    margin-bottom: 0;
 }
 
 .post-content .entry-content .shapely-content p iframe{
@@ -6502,6 +6532,10 @@ div#user-submitted-posts fieldset input.usp-input{
     margin-top: 10px;
 }
 
+.input[type="submit"]{
+    border-radius: 1.25rem!important;
+}
+
 input[type="submit"]{
     background: #3e598d;
     text-shadow: 0.1rem 0.1rem 0px #846035;
@@ -6628,3 +6662,77 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
 .spacing-5{
     letter-spacing: .5px;
 }
+
+/*Thumbnail-Slider*/
+
+.loading{
+    width: 450px!important;
+    height: 300px!important;
+    margin: 25px!important;
+}
+
+.YouTubePopUp-Content{
+    max-width: 800px;
+}
+
+.YouTubePopUp-Content iframe {
+    height: 600px !important;
+}
+
+
+/*Ask Yourself*/
+
+.page-container{
+
+}
+
+.white-bg{
+}
+
+.top-text{
+    font-size: 12px;
+    color: #b8bbc4;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 700;
+}
+
+.title{
+    font-size: 36px;
+    color: #5a5a7d;
+    letter-spacing: 1px;
+}
+
+.wpcf7-form-control-wrap input, textarea{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.wpcf7-form p label{
+    font-family: 'Maven Pro', sans-serif;
+    padding-top: 30px;
+    color: #5a5a7d;
+}
+
+.wpcf7-form p .wpcf7-form-control.wpcf7-submit{
+    border-radius: 1.25rem!important;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+
+@media (max-width: 800px){
+    .mobile{
+        margin-right: 1rem;
+        margin-left: 1rem; }}
+
+@media (max-width: 800px){
+    .full{
+        width: 100% }}
+
+
+@media (max-width: 800px){
+    .block{
+    display: block;
+}}
