@@ -214,7 +214,7 @@ get_header(); ?>
                 <div class="video-section">
                     <div class="color-overlay">
                         <div class="text-container2"></div>
-                        <div class="video-section__header top-80 bottom-90">
+                        <div class="video-section__header top-70 bottom-90">
                             <div class="hr-4"></div>
                             <p class="video-section__header--headline">Stemedia Originals</p>
                             <p class="video-section__header--subheadline mtop-20"><a class="orange-button hover-white" href="http://www.stemedia.org/submit-content">SUBMIT YOUR CONTENT</a></p>
