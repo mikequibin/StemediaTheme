@@ -1,4 +1,4 @@
-/**
+sw/**
  * skip-link-focus-fix.js
  *
  * Helps with accessibility for keyboard only users.
