@@ -248,31 +248,31 @@ get_header(); ?>
                                     <div class="inner">
                                         <ul>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://imgur.com/uouY310.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://i.imgur.com/0qYXh4I.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://imgur.com/mpBxJMi.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://i.imgur.com/8elhIe3.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://imgur.com/zQdYq5g.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://i.imgur.com/h6vgRZU.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://imgur.com/9nf7cv1.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://i.imgur.com/vUHu48Q.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=jW0GTZcwYwE" target="_blank" rel="nofollow"><img src="https://imgur.com/6UQVs0M.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=jW0GTZcwYwE" target="_blank" rel="nofollow"><img src="https://i.imgur.com/b8erPzH.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://imgur.com/uouY310.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://i.imgur.com/0qYXh4I.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://imgur.com/mpBxJMi.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://i.imgur.com/8elhIe3.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://imgur.com/zQdYq5g.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://i.imgur.com/h6vgRZU.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://imgur.com/9nf7cv1.png" alt=""></a>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://i.imgur.com/vUHu48Q.jpg" alt=""></a>
                                             </li>
                                           
 
