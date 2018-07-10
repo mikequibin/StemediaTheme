@@ -42,7 +42,7 @@
         <div class="row__32">
             <div class="footer-icon">
                 <a class="left-10" href=""><img class="logo-stem float" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/new-footer-logo.png" alt=""/></a>
-                <a class="left-10" href="https://www.instagram.com/_stemedia/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/footer-ig.png" alt=""/></a>
+                <a class="left-10" href="https://www.instagram.com/stemedia/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/footer-ig.png" alt=""/></a>
                 <a class="left-10" href="https://www.facebook.com/STEM.Media/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/footer-fb.PNG" alt=""/></a>
                 <a class="left-10" href="https://twitter.com/_STEMedia" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/twitter-footer.png" alt=""/></a>
                 <a class="left-10" href="https://www.youtube.com/stemediaorg" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/youtube-footer.png" alt=""/></a>
@@ -50,7 +50,7 @@
         </div>
     </div>
     <div class="copyright">
-        <p class="font-700 text-gray copyright text-white">© 2018 WWW.STEMEDIA.ORG | ALL RIGHTS RESERVED </p>
+        <p class="font-700 text-gray copyright text-white">© 2018 WWW.STEMEDIA.ORG | ALL RIGHTS RESERVED | DEVELOPER&#60;MIKE QUIBIN&#47;&#62; </p>
     </div>
 
 </footer>

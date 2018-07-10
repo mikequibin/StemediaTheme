@@ -1335,7 +1335,7 @@ p, li, a {
     background-repeat: no-repeat;
     background-size: cover; }
 
-.color-overlay .flex-container3 div{
+.color-overlay .flex-container3{
     color: #4f669a;
 }
 
@@ -6685,6 +6685,12 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
     margin: 25px!important;
 }
 
+@media (max-width: 850px) {
+    .loading {
+    width: 300px!important;
+    height: 300px!important;
+    margin: 25px!important; } }
+
 .YouTubePopUp-Content{
     max-width: 800px;
 }
@@ -6750,3 +6756,6 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
     .block{
     display: block;
 }}
+
+.post-content .entry-content .dropcaps-content p {
+    margin-bottom: 20px;}
