@@ -1471,7 +1471,9 @@ p, ul, h1 {
 
 .hover__orange {
     color: #333;
-    text-decoration: none; }
+    text-decoration: none;
+
+}
 
 .hover__orange:hover {
     color: #faa53f; }
@@ -1504,7 +1506,9 @@ p, ul, h1 {
     text-align: center; }
 
 .image-hover {
-    -webkit-filter: grayscale(100%); }
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease;
+}
 
 .image-hover:hover {
     -webkit-filter: grayscale(0%); }
@@ -2874,6 +2878,7 @@ p.lead {
 a, a:visited, a:focus, a:active, a:hover {
     text-decoration: none;
     outline: none;
+    transition: 0.3s ease;
 }
 
 a {
@@ -2884,6 +2889,7 @@ a {
 
 a:hover {
     color: #faa53f;
+
 }
 
 /*a:visited {*/
@@ -3240,6 +3246,7 @@ nav {
     /* letter-spacing: 1px; */
     color: white;
     text-shadow: 2px 2px #696262;
+
 }
 
 .menu li a:hover {
@@ -6104,6 +6111,7 @@ a.green-btn, a.green-btn:link, a.green-transparent-btn, input.green-transparent-
     text-align: center;
     font-size: .9rem;
     outline: 0;
+    transition: 0.5s ease;
 }
 
 a.green-btn:hover{
@@ -6596,6 +6604,7 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
 .social-icons{
     width: 2%;
     margin-right: 0.93rem;
+    transition: 0.3s;
 }
 
 .social-icons:hover{
