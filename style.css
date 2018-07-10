@@ -6673,6 +6673,15 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
     margin-left: 0;
 }
 
+@media (max-width: 1140px) {
+    .box-content {
+        font-size: 1.5rem; } }
+
+@media (max-width: 900px) {
+    .box-content {
+        font-size: 1.2rem;
+        padding: 10px; } }
+
 .spacing-5{
     letter-spacing: .5px;
 }
