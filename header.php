@@ -26,8 +26,6 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
     <script type="text/javascript" src="youtube.js"></script>
     <?php wp_head(); ?>
-    
-    
 </head>
 
 <body><?php //body_class(); ?>
@@ -42,7 +40,6 @@
                     <div class="row">
                         <div class="module left site-title-container">
                             <?php shapely_get_header_logo(); ?>
-                            <!--<a href=""><img class="float" src="assets/images/stem-logo.png" alt=""></a>-->
                         </div>
                         <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                             <i class="fa fa-bars"></i>
@@ -62,7 +59,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </nav>
