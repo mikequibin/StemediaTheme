@@ -61,7 +61,7 @@ get_header(); ?>
             <div class="banner">
                 <div class="banner__heading">
                     <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence</h1>
-                    <p>We provide technical and creative content for the Science, Technology, Engineering, Arts and Math (STEM/STEAM) community.
+                    <p ><span class="bold">We provide technical and creative content for the Science, Technology, Engineering, Arts and Math (STEM/STEAM) community.</span>
                         </br>Watch the video below for a glimpse of our live events.</p>
                     <div><span>
                         <div id="popup__toggle">
