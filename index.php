@@ -17,55 +17,98 @@ get_header(); ?>
     <body>
 
     <header>
-        <video autoplay muted loop class="fullvideo-container" poster="https://imgur.com/lKlQQfN.jpg">
-            <source src="https://player.vimeo.com/external/258886944.sd.mp4?s=cdffd17404b60618ee02044fd87a87dfeeb68d3f&profile_id=165&autoplay=1" type="video/mp4">
+        <video autoplay muted loop class="fullvideo-container" poster="https://i.imgur.com/kMMSqdv.jpg">
+            <source src="https://player.vimeo.com/external/292294746.m3u8?s=b22b769c1a2f26dcad0dd837277898a8fe0c653e&autoplay=1" type="video/mp4">
+            
+             <!--<source src="https://player.vimeo.com/external/258886944.sd.mp4?s=cdffd17404b60618ee02044fd87a87dfeeb68d3f&profile_id=164&autoplay=1" type="video/mp4" style="opacity: 0.8; mix-blend-mode: multiply; filter: contrast(128%);">-->
+            
+            <!--         <source src="assets/videos/bg-video4.mp4" type="video/mp4">-->
+            <!--        <source src="assets/videos/bg-video4.webm" type="video/webm">-->
         </video>
 
         <div class="social-media">
             <a class="" href="https://twitter.com/_stemedia" target="_blank">
-                <img class="social-icons" src="https://imgur.com/d9mXCno.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/mcqWJmc.jpg"  alt=""/>
             </a>
             <a class="" href="https://www.facebook.com/STEM.Media/" target="_blank">
-                <img class="social-icons" src="https://imgur.com/zvtXyxR.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/kDJnv2C.jpg"  alt=""/>
             </a>
             <a class="" href="https://www.pinterest.com/stemedia/" target="_blank">
-                <img class="social-icons" src="https://imgur.com/l86XDnS.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/M3kSruo.jpg"  alt=""/>
             </a>
             <a class="" href="https://plus.google.com/+StemediaOrg" target="_blank">
-                <img class="social-icons" src="https://imgur.com/DoSPNXG.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/vs53VXM.jpg"  alt=""/>
             </a>
             <a class="" href="https://www.instagram.com/stemedia/" target="_blank">
-                <img class="social-icons" src="https://imgur.com/nJnqI9X.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/arsAnMn.jpg"  alt=""/>
             </a>
             <a class="" href="http://stemediainspiration.tumblr.com/" target="_blank">
-                <img class="social-icons" src="https://imgur.com/N7piBWa.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/mSaCW0D.jpg"  alt=""/>
             </a>
             <a class="" href="https://www.youtube.com/channel/UCUcg8ZH-u4j3sHnVH6rUBqQ" target="_blank">
-                <img class="social-icons" src="https://imgur.com/enJ43ug.jpg"  alt=""/>
+                <img class="social-icons" src="https://i.imgur.com/p5lueRu.jpg"  alt=""/>
             </a>
         </div>
-        <div class="border-line">
+        <!-- <div class="border-line">
             <a class="jumper" href="#four">
                 <img class="logo-feat" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-feat3.png" alt=""/>
             </a>
-        </div>
+        </div> -->
     </header>
 
     <section>
         <div class="text-center">
             <div class="banner">
                 <div class="banner__heading">
-                    <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence meets </br> Creative Genius </br>
-                    <span>
+                    <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence</h1>
+                    <p>A onestop media for science, technology, engineering and math. Watch the film and meet creative geniuses.</p>
+                    <div><span>
                         <div id="popup__toggle">
-                            <a class="vp-a" href="https://vimeo.com/259292743" target="_blank" rel="nofollow"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/white-btn.png" alt="" /></a>
+                            <a class="vp-a" href="https://vimeo.com/259292743" target="_blank" rel="nofollow"><img class="play-img" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/play-btn.png" alt="" /></a>
                         </div>
-                    </span>
-                    </h1>
+                    </span></div>
                 </div>
             </div>
         </div>
+
     </section>
+
+    <!--<div class="banner__down-arrow">-->
+    <!--    <a class="jumper z-top" href="#two"><img class="" style="padding-bottom: -20px;" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/down-arrow.png" alt=""/></a>-->
+    <!--</div>-->
+
+    <!--<section>-->
+    <!--    <div class="white-box">-->
+    <!---->
+    <!--        <div class="flex-container flex-margin0">-->
+    <!--            <div id="two"></div>-->
+    <!--            <div class="row row__50 orange-bg">-->
+    <!--                <div class="top-50 marginl-20 bottom-10 mobile-margin45">-->
+    <!--                    <h2 class="text-white font-700 decoration-stem">-->
+    <!--                        STEMedia™</br>-->
+    <!--                        STEM•Media <span class="font-40"></span>-->
+    <!--                    </h2>-->
+    <!--                    <p class="font-500 letter-spacing bottom-10 top-15 border-responsive"> Creative x Inspirational content for the Science, Technology,</br> Engineering, & Math (STEM) community!-->
+    <!--                    </p>-->
+    <!---->
+    <!--                    <div class="white-button" id="popup__toggle">-->
+    <!--                        <img class="white-button__img" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/media-button.png" alt="" />-->
+    <!--                        <h5 class="white-button__text decoration-none text-orange font-500" >Who is STEMedia?</h5>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--            </div>-->
+    <!--            <div class="row row__50">-->
+    <!--                <img class="video-mobile" src="--><?php //echo get_stylesheet_directory_uri(); ?><!--/assets/images/video-mobile.png"  alt="">-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--    <div class="popup__overlay">-->
+    <!--        <div class="popup" id="popupVid">-->
+    <!--            <a href="#" class="popup__close">X</a>-->
+    <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/nbREm52cjXk?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</section>-->
 
     <section class="">
         <div class="community-banner ">
@@ -76,6 +119,90 @@ get_header(); ?>
                     <p class="community-header__subheadline">Content for and from the STEM Community</p>
                 </div>
 
+                <!--<div class="community-project">-->
+                <!--    <div class="flex-container-comm mtop-35">-->
+
+                <!--        <div class="row row__50 mobile-full">-->
+                <!--            <div class="project project__1st" onclick="window.location='http://stemedia.org/the-truth-behind-your-favorite-makeup-brands/';">-->
+                <!--                <p class="project__title1 no-bottom add-16"><a class="project-mobile project__title1 no-bottom add-16 decoration-none" href="http://stemedia.org/the-truth-behind-your-favorite-makeup-brands/">The Truth Behind Your Favorite Makeup Brands</a></p>-->
+                <!--                <p class="date-mobile project__date1 no-bottom">Cynthia M. Sharpe - December (2017)</p>-->
+                <!--                <div class="project__comment">-->
+                <!--                    <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>-->
+                <!--                    <p class="comment-mobile project__comment--content">0 Comments</p>-->
+                <!--                    <a href="" target="_blank"><img class="avatar-mobile project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-ic.png" alt=""/></a>-->
+                <!--                </div>-->
+                <!--            </div>-->
+                <!--        </div>-->
+
+                <!--        <div class="row row__50 mobile-full add-2">-->
+                <!--            <div class="project project__2nd" onclick="window.location='http://stemedia.org/heres-why-you-should-watch-more-scifi-movies/';">-->
+                <!--                <p><a class="project-mobile project__title no-bottom decoration-none" href="http://stemedia.org/heres-why-you-should-watch-more-scifi-movies/">Here’s Why You Should Watch More Scifi Movies</a></p>-->
+                <!--                <p class="date-mobile project__date bottom-7__mobile no-bottom">Khalid Birdsong - December (2017)</p>-->
+                <!--                <div class="project__comment">-->
+                <!--                    <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>-->
+                <!--                    <p class="comment-mobile">0 Comments</p>-->
+                <!--                    <img class="avatar-mobile project__comment--avatar" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p2-ic.png" alt=""/>-->
+                <!--                </div>-->
+                <!--            </div>-->
+
+                <!--            <div class="flex-container-comm mobile-50">-->
+                <!--                <div class="project project__3rd row row__50 mobile-full add-2" onclick="window.location='http://stemedia.org/stem-in-the-kitchen-improve-your-cooking-with-science/';">-->
+                <!--                    <p><a class="project-mobile project__title2 no-bottom decoration-none" href="http://stemedia.org/stem-in-the-kitchen-improve-your-cooking-with-science/">STEM in the Kitchen: Improve Your Cooking with Science!</a></p>-->
+                <!--                    <p class="date-mobile project__date3 no-bottom">J.C - December (2017)</p>-->
+                <!--                    <img class="hr1" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/hr-line.png" alt=""/>-->
+                <!--                    <p class="text-white mobile-font1 no-bottom "> </p>-->
+                <!--                    <div class="project__comment">-->
+                <!--                        <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>-->
+                <!--                        <p class="comment-mobile project__comment--content2">0 Comments</p>-->
+                <!--                        <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <!--                <div class="row row__50 project project__4th mobile-full add-2" onclick="window.location='http://stemedia.org/critical-thinker-elements-of-an-elite-stem-professional-5/';">-->
+                <!--                    <p ><a class="project-mobile project__title2 no-bottom top-7 top-7__mobile decoration-none" href="http://stemedia.org/critical-thinker-elements-of-an-elite-stem-professional-5/">"Critical Thinker" | Elements of an Elite STEM Professional (#5)</a></p>-->
+                <!--                    <p class="date-mobile project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>-->
+                <!--                    <div class="project__comment top-4">-->
+                <!--                        <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>-->
+                <!--                        <p class="comment-mobile project__comment--content2">0 Comments</p>-->
+                <!--                        <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p3-ic.png" alt=""/>-->
+                <!--                    </div>-->
+                <!--                </div>-->
+
+                <!--            </div>-->
+                <!--        </div>-->
+
+                <!--    </div>-->
+                <!--</div>-->
+
+                <!--<div class="flex-container-comm flex-30">-->
+                <!--    <div class="row__25 project project__5th" onclick="window.location='http://stemedia.org/confidence-elements-of-an-elite-stem-professional-6/';">-->
+                <!--        <p ><a class="project-mobile project__title2 no-bottom decoration-none" href="http://stemedia.org/confidence-elements-of-an-elite-stem-professional-6/">"Confidence" | Elements of an Elite STEM Professional (#6</a>)</p>-->
+                <!--        <p class="date-mobile project__date3 no-bottom">Ricky D. Venters, Jr. P.E. - December (2017)</p>-->
+                <!--        <div class="project__comment no-bottom">-->
+                <!--            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>-->
+                <!--            <p class="comment-mobile project__comment--content2">0 Comments</p>-->
+                <!--            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p5-ic.png" alt=""/>-->
+                <!--        </div>-->
+                <!--    </div>-->
+                <!--    <div class="row row__50 project project__6th mobile-full" onclick="window.location='http://stemedia.org/the-pursuit-of-inspiration/';">-->
+                <!--        <p ><a class="project-mobile project__title6 top-7 no-bottom decoration-none" href="http://stemedia.org/the-pursuit-of-inspiration/">The Pursuit of Inspiration</a></p>-->
+                <!--        <p class="date-mobile project__date3 no-bottom">Caila Hollley - June 2016</p>-->
+                <!--        <div class="project__comment top-7__mobile">-->
+                <!--            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p1-com.png" alt=""/>-->
+                <!--            <p class="comment-mobile">0 Comments</p>-->
+                <!--            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p6-ic.png" alt=""/>-->
+                <!--        </div>-->
+                <!--    </div>-->
+                <!--    <div class="row__25 project project__7th" onclick="window.location='http://stemedia.org/reach-your-resolutions/';">-->
+                <!--        <p><a class="project-mobile project__title2 no-bottom decoration-none" href="http://stemedia.org/reach-your-resolutions/">Reach Your Resolutions!</a></p>-->
+                <!--        <p class="date-mobile project__date3 no-bottom">Cynthia Sharpe - December 2016</p>-->
+                <!--        <div class="project__comment no-bottom">-->
+                <!--            <img class="ic-mobile project__comment--ic" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/comment-ic.png" alt=""/>-->
+                <!--            <p class="comment-mobile project__comment--content2">0 Comments</p>-->
+                <!--            <img class="avatar-mobile right" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/p7-ic.png" alt=""/>-->
+                <!--        </div>-->
+                <!--    </div>-->
+                <!--</div>-->
+                
                 <div style="margin: 0 30px;">
                     <?php echo do_shortcode('[grid_plus name="GridPost"]'); ?>
                 </div>
@@ -94,40 +221,91 @@ get_header(); ?>
                         </div>
                         <div class="flex-container3">
 
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/zDappKOl2fg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/9BshxkR4iKo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+                            <!--<div class="row row__33 mobile-full">-->
+                            <!--    <div class="video-container vsl-video">-->
+                            <!--        <div class="videoWrapper">-->
+                            <!--            <iframe width="854" height="480" src="https://www.youtube.com/embed/MNGTCPHWMGQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>-->
+                            <!--        </div>-->
+                            <!--    </div>-->
+                            <!--</div>-->
+
                             <div style="">
                                 <div id="thumbnail-slider">
                                     <div class="inner">
                                         <ul>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://i.imgur.com/0qYXh4I.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/XPt188U.jpg" alt=""></a>
+                                                
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://i.imgur.com/8elhIe3.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/WeX4urh.jpg" alt=""></a>
+                                            </li>
+                                            
+                                            <li>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://i.imgur.com/zAutO8W.jpg" alt=""></a>
+                                            </li>
+                                    
+                                            <li>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=jW0GTZcwYwE" target="_blank" rel="nofollow"><img src="https://i.imgur.com/sXqtuO3.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://i.imgur.com/h6vgRZU.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/jPgVq1I.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://i.imgur.com/vUHu48Q.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229951557?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/XPt188U.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=jW0GTZcwYwE" target="_blank" rel="nofollow"><img src="https://i.imgur.com/b8erPzH.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/230610982?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/WeX4urh.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229929180" target="_blank" rel="nofollow"><img src="https://i.imgur.com/0qYXh4I.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI?autoplay=1&quality=360p" target="_blank" rel="nofollow"><img src="https://i.imgur.com/zAutO8W.jpg" alt=""></a>
                                             </li>
                                             <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/229951557" target="_blank" rel="nofollow"><img src="https://i.imgur.com/8elhIe3.jpg" alt=""></a>
+                                                <a class="thumb vp-a" href="https://vimeo.com/229929180?autoplay=1&quality=360p thankyouvid    " target="_blank" rel="nofollow"><img src="https://i.imgur.com/sXqtuO3.jpg" alt=""></a>
                                             </li>
-                                            <li>
-                                                <a class="thumb vp-a" href="https://vimeo.com/230610982" target="_blank" rel="nofollow"><img src="https://i.imgur.com/h6vgRZU.jpg" alt=""></a>
-                                            </li>
-                                            <li>
-                                                <a class="thumb vp-a" href="https://www.youtube.com/watch?v=DYrsL4OJyTI" target="_blank" rel="nofollow"><img src="https://i.imgur.com/vUHu48Q.jpg" alt=""></a>
-                                            </li>
+                                          
+
                                         </ul>
                                     </div>
                                 </div>
+                                <!--   <div id="thumbs2" style="display:none;">-->
+                                <!--       <div class="inner">-->
+                                <!--           <ul>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/229929180" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/229951557" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <iframe src="https://player.vimeo.com/video/230610982" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/DYrsL4OJyTI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>-->
+                                <!--               </li>-->
+                                <!--               <li>-->
+                                <!--                   <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/jW0GTZcwYwE?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>-->
+                                <!--               </li>-->
+                                <!--<li>-->
+                                <!--                   <a class="thumb" href="img/1.jpg"></a>-->
+                                <!--               </li>-->
+                                <!--           </ul>-->
+                                <!--       </div>-->
+                                <!--       <div id="closeBtn">CLOSE</div>-->
                             </div>
 
                             <script>
