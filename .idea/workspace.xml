@@ -2,114 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f61215a-c186-4412-a762-0f59dfcb5ac1" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p1-com.PNG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p1-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p2-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p2-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p3-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p3-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p4-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p4-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p5-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p5-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p6-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p6-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p7-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\p7-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\video-design.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\devmike\wp-content\themes\StemediaTheme\assets\images\video-mobile.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/24550352_928004707376459_1873703075_n.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/24550352_928004707376459_1873703075_n.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/CAMp.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/CAMp.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/Camp.png" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/Camp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/IMHOTEP.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/IMHOTEP.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/IMHOTEP.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/IMHOTEP.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/INTEL.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/INTEL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/INTEL.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/INTEL.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/MTV.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/MTV.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/MTVCo.png" afterPath="$PROJECT_DIR$/assets/images/MTVCo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/MTVHOVER.png" afterPath="$PROJECT_DIR$/assets/images/MTVHOVER.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/NAE.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/NAE.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/NAE.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/NAE.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/NC State.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/NC State.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/NSBE-hover.png" afterPath="$PROJECT_DIR$/assets/images/NSBE-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/NSBE.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/NSBE.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/NSBE.png" afterPath="$PROJECT_DIR$/assets/images/NSBE.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/SBE.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/SBE.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/Texas.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/BW/Texas.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/Who We've Helped images/Texas2.jpg" afterPath="$PROJECT_DIR$/assets/images/Who We've Helped images/Texas2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/about-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/about-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/academy-hover.png" afterPath="$PROJECT_DIR$/assets/images/academy-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/academy.png" afterPath="$PROJECT_DIR$/assets/images/academy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/blue-border.png" afterPath="$PROJECT_DIR$/assets/images/blue-border.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/blue-bullet.png" afterPath="$PROJECT_DIR$/assets/images/blue-bullet.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/blue-down-arrow.png" afterPath="$PROJECT_DIR$/assets/images/blue-down-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/brand-ic.png" afterPath="$PROJECT_DIR$/assets/images/brand-ic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/campbell-hover.png" afterPath="$PROJECT_DIR$/assets/images/campbell-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/campbell.png" afterPath="$PROJECT_DIR$/assets/images/campbell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/comment-ic.png" afterPath="$PROJECT_DIR$/assets/images/comment-ic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/community-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/community-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/creative-genius.png" afterPath="$PROJECT_DIR$/assets/images/creative-genius.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/down-arrow.PNG" afterPath="$PROJECT_DIR$/assets/images/down-arrow.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/event-ic.png" afterPath="$PROJECT_DIR$/assets/images/event-ic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/fb-footer.png" afterPath="$PROJECT_DIR$/assets/images/fb-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/fb-icon.png" afterPath="$PROJECT_DIR$/assets/images/fb-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-barline.png" afterPath="$PROJECT_DIR$/assets/images/footer-barline.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-fb.PNG" afterPath="$PROJECT_DIR$/assets/images/footer-fb.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-ig.PNG" afterPath="$PROJECT_DIR$/assets/images/footer-ig.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-logo.PNG" afterPath="$PROJECT_DIR$/assets/images/footer-logo.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-twitter.PNG" afterPath="$PROJECT_DIR$/assets/images/footer-twitter.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/footer-yotube.PNG" afterPath="$PROJECT_DIR$/assets/images/footer-yotube.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/homepage-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/homepage-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/hr-line.png" afterPath="$PROJECT_DIR$/assets/images/hr-line.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/ig-footer.png" afterPath="$PROJECT_DIR$/assets/images/ig-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/imhotep-hover.png" afterPath="$PROJECT_DIR$/assets/images/imhotep-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/imhotep.png" afterPath="$PROJECT_DIR$/assets/images/imhotep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/insta-icon.png" afterPath="$PROJECT_DIR$/assets/images/insta-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/intel-hover.png" afterPath="$PROJECT_DIR$/assets/images/intel-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/intel.png" afterPath="$PROJECT_DIR$/assets/images/intel.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/lifeevents-ic.png" afterPath="$PROJECT_DIR$/assets/images/lifeevents-ic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-feat.png" afterPath="$PROJECT_DIR$/assets/images/logo-feat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-feat2.png" afterPath="$PROJECT_DIR$/assets/images/logo-feat2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-feat3.png" afterPath="$PROJECT_DIR$/assets/images/logo-feat3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-footer.png" afterPath="$PROJECT_DIR$/assets/images/logo-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo-medium.PNG" afterPath="$PROJECT_DIR$/assets/images/logo-medium.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/media-button.PNG" afterPath="$PROJECT_DIR$/assets/images/media-button.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/my-tv-hover.png" afterPath="$PROJECT_DIR$/assets/images/my-tv-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/my-tv.png" afterPath="$PROJECT_DIR$/assets/images/my-tv.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/mytv.png" afterPath="$PROJECT_DIR$/assets/images/mytv.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/new-footer-logo.png" afterPath="$PROJECT_DIR$/assets/images/new-footer-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/our-services-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/our-services-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/ourservices-banner.jpg" afterPath="$PROJECT_DIR$/assets/images/ourservices-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/overlay-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/overlay-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/overlay-bg.png" afterPath="$PROJECT_DIR$/assets/images/overlay-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p1-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p1-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p2-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p2-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p3-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p3-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p4-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p4-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p5-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p5-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p6-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p6-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/p7-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/p7-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/search-icon.PNG" afterPath="$PROJECT_DIR$/assets/images/search-icon.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/stateuniv-hover.png" afterPath="$PROJECT_DIR$/assets/images/stateuniv-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/stateuniv.png" afterPath="$PROJECT_DIR$/assets/images/stateuniv.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/stem-logo.png" afterPath="$PROJECT_DIR$/assets/images/stem-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/texas-hover.png" afterPath="$PROJECT_DIR$/assets/images/texas-hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/texas.png" afterPath="$PROJECT_DIR$/assets/images/texas.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/top-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/top-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/twitter-footer.png" afterPath="$PROJECT_DIR$/assets/images/twitter-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/twitter-icon.png" afterPath="$PROJECT_DIR$/assets/images/twitter-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/videopro-ic.PNG" afterPath="$PROJECT_DIR$/assets/images/videopro-ic.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/vpro-ic.png" afterPath="$PROJECT_DIR$/assets/images/vpro-ic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/white-btn.png" afterPath="$PROJECT_DIR$/assets/images/white-btn.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/youtube-footer.png" afterPath="$PROJECT_DIR$/assets/images/youtube-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/youtube-icons.png" afterPath="$PROJECT_DIR$/assets/images/youtube-icons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="StemediaTheme.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538555617921" ignored="false" />
-    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538556413714" ignored="false" />
+    <file path="/Dummy.txt" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538668129360" ignored="false" />
+    <file path="/index.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538668393259" ignored="false" />
     <file path="/style.css" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1538556112077" ignored="false" />
     <file path="/a.dummy" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1523871778916" ignored="false" />
     <file path="/footer.php" changelist="2f61215a-c186-4412-a762-0f59dfcb5ac1" time="1536637402029" ignored="false" />
@@ -137,19 +35,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="708" column="26" selection-start="12162" selection-end="12162" vertical-scroll-proportion="0.48404256">
+            <state line="759" column="0" selection-start="13185" selection-end="13185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="52" selection-start="5142" selection-end="5142" vertical-scroll-proportion="-9.153846">
+            <state line="64" column="84" selection-start="3371" selection-end="3371" vertical-scroll-proportion="0.75488454">
               <folding />
             </state>
           </provider>
@@ -158,7 +56,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="21" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+            <state line="45" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,7 +65,7 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="56" selection-start="2350" selection-end="2350" vertical-scroll-proportion="0.0">
+            <state line="51" column="56" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -191,10 +89,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -231,6 +129,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,7 +140,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +170,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25704527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29491255" sideWeight="0.67068964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13275039" sideWeight="0.67068964" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -414,28 +312,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+        <state line="45" column="0" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="56" selection-start="2350" selection-end="2350" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="52" selection-start="5142" selection-end="5142" vertical-scroll-proportion="-9.153846">
+        <state line="51" column="56" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="708" column="26" selection-start="12162" selection-end="12162" vertical-scroll-proportion="0.48404256">
+        <state line="759" column="0" selection-start="13185" selection-end="13185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="84" selection-start="3371" selection-end="3371" vertical-scroll-proportion="0.75488454">
           <folding />
         </state>
       </provider>

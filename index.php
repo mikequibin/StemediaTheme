@@ -61,7 +61,8 @@ get_header(); ?>
             <div class="banner">
                 <div class="banner__heading">
                     <h1 class="head-post text-center decoration-dark head-text bottom-0">Technical Intelligence</h1>
-                    <p>A onestop media for science, technology, engineering and math. Watch the film and meet creative geniuses.</p>
+                    <p>We provide technical and creative content for the Science, Technology, Engineering, Arts and Math (STEM/STEAM) community.
+                        </br>Watch the video below for a glimpse of our live events.</p>
                     <div><span>
                         <div id="popup__toggle">
                             <a class="vp-a" href="https://vimeo.com/259292743" target="_blank" rel="nofollow"><img class="play-img" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/play-btn.png" alt="" /></a>
